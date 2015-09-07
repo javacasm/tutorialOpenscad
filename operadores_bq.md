@@ -13,3 +13,5 @@ Veamos un ejemplo:
 3. Añade un cilindro más pequeño de estas dimensiones en la posición x,y,x pero girado estos ángulos
 
 4. Ahora haz un agujero en este punto. El agujero debe tener estas medidas.
+
+5. Ahora haz una copia del lado derecho como si se reflejara en un espejo
