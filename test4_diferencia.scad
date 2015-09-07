@@ -27,9 +27,9 @@ difference()
     
     
     // primero se aplica la translación y luego la rotación
-    rotate([0,0,120])
+    rotate([0,0,120]) 
         translate([20,0,0])
-            cylinder(d=8,h=20,$fn=6,center=true);
+            cylinder(d=8,eh=20,$fn=6,center=true);
     
     rotate([0,0,240])
         translate([20,0,0])
