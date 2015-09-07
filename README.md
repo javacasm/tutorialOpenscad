@@ -33,10 +33,9 @@ http://www.iearobotics.com/downloads/2012-05-22-openscad-tutorial/tutorial_opens
 
 Podemos utilizar comentarios de línea con // o de bloque con /* */
 
-para hacer bucles ...
+Podemos repetir una acción con un bucle for  for(i=[1:n-1]) El rango lo definimos con corchetes y puede ser un rango 3:9 o un conjunto 5,7,3
 
-para crear módulos usamos la palabra module y salvamos con el mismo nombre
-
+Para crear módulos usamos la palabra module y salvamos en un fichero ¿con el mismo nombre?
 
 
 modificadores 
@@ -68,6 +67,8 @@ El conjunto de objetos se indica incluyendo estos dentro de una llaves, cada obj
 
 
 #### Suma (union), unimos todos los objetos de la lista
+
+#### Copia en espejo (mirror) que nos permite hacer un reflexión a lo largo del eje indicado
 
 ## Objetos
 
