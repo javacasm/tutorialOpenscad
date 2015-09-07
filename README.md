@@ -48,6 +48,16 @@ Podemos usar color([r,g,b,a]) para cambiar el color
 
 Segunda parte http://www.iearobotics.com/wiki/index.php?title=Dise%C3%B1o_de_piezas_con_OpenScad_II
 
+## Operaciones sobre objetos
+
+Sobre un objeto podemos aplicar operaciones como la rotación (rotate), la translación (translate) o el cambio de color (color)
+
+El orden de aplica de estas operaciones, en mi opinión es el inverso al acostumbrado en programación, puesto que tenemos se aplicarán desde el más cercano al mas lejano, pero dejando siempre al final el objeto. Así el primer operador que indicamos es el último que se aplica.
+
+
+
+
+Otra alternativa sería freecad...
 
 Utilizando FreeCad
 ====
