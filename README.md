@@ -42,9 +42,9 @@ Para crear módulos usamos la palabra module y salvamos en un fichero ¿con el m
 
 modificadores 
 * # resalta 
-* ! sólo muestra ese
+* ! sólo muestra ese objeto
 * * desactiva (comenta)
-* % transparente
+* % transparente las piezas que se restan
 
 Podemos usar color([r,g,b,a]) para cambiar el color, con los argumentos de color decimales entre 0 y 1. También podemos usar nombres de colores entre comillas.
 
