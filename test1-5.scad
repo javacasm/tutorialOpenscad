@@ -27,11 +27,19 @@ color([0,1,0,1])
 color("magenta")
     cylinder(r=20,h=20);
 
+
+
 // un cilindro con más facetas
 
 color("pink")
     translate([0,-0,0])
         cylinder(r=25/2,h=30,$fn=100);
+
+// O si lo hacemos con menos podemos hacer un polígono. Por ejemplo un hexágono
+
+color("red")
+    translate([200,0,0])
+        cylinder(r=30,h=15,$fn=6);
 
 // Podemos hacer un tronco de cono con el cilindro
 
