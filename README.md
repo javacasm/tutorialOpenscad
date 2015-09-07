@@ -39,10 +39,12 @@ para hacer bucles ...
 para crear módulos
 
 modificadores 
-* # comenta
+* # resalta 
 * ! sólo muestra ese
-* *
-color
+* * desactiva (comenta)
+* % transparente
+
+Podemos usar color([r,g,b,a]) para cambiar el color
 
 Segunda parte http://www.iearobotics.com/wiki/index.php?title=Dise%C3%B1o_de_piezas_con_OpenScad_II
 
