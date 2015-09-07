@@ -6,7 +6,7 @@ color("red")
 // hexágono en los negativos
 
 color("blue")
-    translate([-100,0,0])
+    translate([-50,0,0])
         cylinder(h=10,r=7,$fn=6);
         
         
@@ -14,5 +14,5 @@ color("blue")
 // triangulo en los positivo
 
 color("green")
-    translate([120,0,0])
+    translate([40,0,0])
         cylinder(h=7,r=15,$fn=3);
