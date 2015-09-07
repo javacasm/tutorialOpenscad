@@ -31,12 +31,13 @@ Primera parte de los videotutoriales http://www.iearobotics.com/wiki/index.php?t
 Descargamos los ficheros de los tutoriales
 http://www.iearobotics.com/downloads/2012-05-22-openscad-tutorial/tutorial_openscad-01-14.zip
 
-Difference
-Union
+Podemos utilizar comentarios de línea con // o de bloque con /* */
 
 para hacer bucles ...
 
-para crear módulos
+para crear módulos usamos la palabra module y salvamos con el mismo nombre
+
+
 
 modificadores 
 * # resalta 
@@ -59,11 +60,14 @@ Se suele identar, dejando el objeto (que será el último) como la línea más i
 
 El signo ";" indica "la creación" del objeto y por tanto el fin de la sentencia
 
-### Operadores bouleanos
+### Operadores booleanos
 
 El conjunto de objetos se indica incluyendo estos dentro de una llaves, cada objeto con su ";"
 
-#### Diferencia, se aplica a un conjunto de objetos restando del primero los siguientes y por el orden indicado. 
+#### Diferencia (difference), se aplica a un conjunto de objetos restando del primero los siguientes y por el orden indicado.  
+
+
+#### Suma (union), unimos todos los objetos de la lista
 
 ## Objetos
 
