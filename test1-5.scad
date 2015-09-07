@@ -32,3 +32,9 @@ color("magenta")
 color("pink")
     translate([0,-0,0])
         cylinder(r=25/2,h=30,$fn=100);
+
+// Podemos hacer un tronco de cono con el cilindro
+
+color("lightblue")
+    translate([-200,0,0])
+        cylinder(r1=10,r2=30,h=50);
