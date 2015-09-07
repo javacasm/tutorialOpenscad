@@ -38,13 +38,15 @@ Podemos repetir una acción con un bucle for  for(i=[1:n-1]) El rango lo definim
 Para crear módulos usamos la palabra module y salvamos en un fichero ¿con el mismo nombre?
 
 
+## Depuración
+
 modificadores 
 * # resalta 
 * ! sólo muestra ese
 * * desactiva (comenta)
 * % transparente
 
-Podemos usar color([r,g,b,a]) para cambiar el color
+Podemos usar color([r,g,b,a]) para cambiar el color, con los argumentos de color decimales entre 0 y 1. También podemos usar nombres de colores entre comillas.
 
 Segunda parte http://www.iearobotics.com/wiki/index.php?title=Dise%C3%B1o_de_piezas_con_OpenScad_II
 
@@ -72,7 +74,7 @@ El conjunto de objetos se indica incluyendo estos dentro de una llaves, cada obj
 
 ## Objetos
 
-¿Todos? admieten center=true, para que el objeto esté centrado en el origen
+¿Todos? admiten center=true, para que el objeto esté centrado en el origen
 
 Cada constructor de un objeto admite unos argumentos, que tienen un valor por defecto y si queremos cambiar debemos hacerlo indicando el nombre del argumento y su nuevo valor. Los más normales admiten suelen tener un nombre claro y los menos evidentes empiezan por $
 
