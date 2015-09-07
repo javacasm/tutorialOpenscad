@@ -1,0 +1,899 @@
+%PDF-1.4
+%áéëÓ
+1 0 obj
+<</Type /Catalog
+/Pages 2 0 R>>
+endobj
+2 0 obj
+<</Type /Pages
+/Count 1
+/Kids [3 0 R]>>
+endobj
+3 0 obj
+<</Type /Page
+/Resources <</ProcSets [/PDF /Text /ImageB /ImageC /ImageI]
+/ExtGState <</G0 4 0 R
+/G1 5 0 R>>
+/Font <</F0 6 0 R
+/F1 11 0 R>>>>
+/MediaBox [0 0 841 595]
+/Annots [<</Type /Annot
+/Subtype /Link
+/Border [0 0 0]
+/Rect [22.4025 531.7875 35.2057 540.5896]
+/A <</Type /Action
+/S /URI
+/URI (https://en.wikibooks.org/wiki/OpenSCAD_User_Manual/General#Variables)>>>> <</Type /Annot
+/Subtype /Link
+/Border [0 0 0]
+/Rect [48.0088 531.7875 68.8139 540.5896]
+/A <</Type /Action
+/S /URI
+/URI (https://en.wikibooks.org/wiki/OpenSCAD_User_Manual/General#Values_and_Data_Types)>>>> <</Type /Annot
+/Subtype /Link
+/Border [0 0 0]
+/Rect [22.4025 518.9843 48.0088 527.7865]
+/A <</Type /Action
+/S /URI
+/URI (https://en.wikibooks.org/wiki/OpenSCAD_User_Manual/Modules)>>>> <</Type /Annot
+/Subtype /Link
+/Border [0 0 0]
+/Rect [22.4025 498.9794 56.0108 507.7816]
+/A <</Type /Action
+/S /URI
+/URI (https://en.wikibooks.org/wiki/OpenSCAD_User_Manual/User-Defined_Functions)>>>> <</Type /Annot
+/Subtype /Link
+/Border [0 0 0]
+/Rect [22.4025 478.9745 52.0098 487.7767]
+/A <</Type /Action
+/S /URI
+/URI (https://en.wikibooks.org/wiki/OpenSCAD_User_Manual/Include_Statement)>>>> <</Type /Annot
+/Subtype /Link
+/Border [0 0 0]
+/Rect [22.4025 466.9716 35.2057 475.7737]
+/A <</Type /Action
+/S /URI
+/URI (https://en.wikibooks.org/wiki/OpenSCAD_User_Manual/Include_Statement)>>>> <</Type /Annot
+/Subtype /Link
+/Border [0 0 0]
+/Rect [22.4025 422.1606 48.0088 430.9628]
+/A <</Type /Action
+/S /URI
+/URI (https://en.wikibooks.org/wiki/OpenSCAD_User_Manual/Using_the_2D_Subsystem#circle)>>>> <</Type /Annot
+/Subtype /Link
+/Border [0 0 0]
+/Rect [22.4025 410.1577 48.0088 418.9598]
+/A <</Type /Action
+/S /URI
+/URI (https://en.wikibooks.org/wiki/OpenSCAD_User_Manual/Using_the_2D_Subsystem#square)>>>> <</Type /Annot
+/Subtype /Link
+/Border [0 0 0]
+/Rect [22.4025 398.1548 48.0088 406.9569]
+/A <</Type /Action
+/S /URI
+/URI (https://en.wikibooks.org/wiki/OpenSCAD_User_Manual/Using_the_2D_Subsystem#square)>>>> <</Type /Annot
+/Subtype /Link
+/Border [0 0 0]
+/Rect [22.4025 385.3516 52.0098 394.1538]
+/A <</Type /Action
+/S /URI
+/URI (https://en.wikibooks.org/wiki/OpenSCAD_User_Manual/Using_the_2D_Subsystem#polygon)>>>> <</Type /Annot
+/Subtype /Link
+/Border [0 0 0]
+/Rect [22.4025 373.3487 52.0098 382.1508]
+/A <</Type /Action
+/S /URI
+/URI (https://en.wikibooks.org/wiki/OpenSCAD_User_Manual/Using_the_2D_Subsystem#polygon)>>>> <</Type /Annot
+/Subtype /Link
+/Border [0 0 0]
+/Rect [22.4025 361.3458 39.2066 370.1479]
+/A <</Type /Action
+/S /URI
+/URI (http://en.wikibooks.org/wiki/OpenSCAD_User_Manual/Text)>>>> <</Type /Annot
+/Subtype /Link
+/Border [0 0 0]
+/Rect [22.4025 300.5309 48.0088 309.333]
+/A <</Type /Action
+/S /URI
+/URI (https://en.wikibooks.org/wiki/OpenSCAD_User_Manual/Primitive_Solids#sphere)>>>> <</Type /Annot
+/Subtype /Link
+/Border [0 0 0]
+/Rect [22.4025 288.5279 39.2066 297.3301]
+/A <</Type /Action
+/S /URI
+/URI (https://en.wikibooks.org/wiki/OpenSCAD_User_Manual/Primitive_Solids#cube)>>>> <</Type /Annot
+/Subtype /Link
+/Border [0 0 0]
+/Rect [22.4025 276.525 39.2066 285.3271]
+/A <</Type /Action
+/S /URI
+/URI (https://en.wikibooks.org/wiki/OpenSCAD_User_Manual/Primitive_Solids#cube)>>>> <</Type /Annot
+/Subtype /Link
+/Border [0 0 0]
+/Rect [22.4025 263.7218 56.0108 272.524]
+/A <</Type /Action
+/S /URI
+/URI (https://en.wikibooks.org/wiki/OpenSCAD_User_Manual/Primitive_Solids#cylinder)>>>> <</Type /Annot
+/Subtype /Link
+/Border [0 0 0]
+/Rect [22.4025 251.7189 56.0108 260.5211]
+/A <</Type /Action
+/S /URI
+/URI (https://en.wikibooks.org/wiki/OpenSCAD_User_Manual/Primitive_Solids#cylinder)>>>> <</Type /Annot
+/Subtype /Link
+/Border [0 0 0]
+/Rect [22.4025 239.716 64.0127 248.5181]
+/A <</Type /Action
+/S /URI
+/URI (https://en.wikibooks.org/wiki/OpenSCAD_User_Manual/Primitive_Solids#polyhedron)>>>> <</Type /Annot
+/Subtype /Link
+/Border [0 0 0]
+/Rect [205.6474 295.7297 209.6484 304.5318]
+/A <</Type /Action
+/S /URI
+/URI (https://en.wikibooks.org/wiki/OpenSCAD_User_Manual/Modifier_Characters#Disable_Modifier)>>>> <</Type /Annot
+/Subtype /Link
+/Border [0 0 0]
+/Rect [205.6474 283.7267 209.6484 292.5289]
+/A <</Type /Action
+/S /URI
+/URI (https://en.wikibooks.org/wiki/OpenSCAD_User_Manual/Modifier_Characters#Root_Modifier)>>>> <</Type /Annot
+/Subtype /Link
+/Border [0 0 0]
+/Rect [205.6474 271.7238 209.6484 280.526]
+/A <</Type /Action
+/S /URI
+/URI (https://en.wikibooks.org/wiki/OpenSCAD_User_Manual/Modifier_Characters#Debug_Modifier)>>>> <</Type /Annot
+/Subtype /Link
+/Border [0 0 0]
+/Rect [205.6474 259.7209 209.6484 268.523]
+/A <</Type /Action
+/S /URI
+/URI (https://en.wikibooks.org/wiki/OpenSCAD_User_Manual/Modifier_Characters#Background_Modifier)>>>> <</Type /Annot
+/Subtype /Link
+/Border [0 0 0]
+/Rect [205.6474 531.7875 243.2566 540.5896]
+/A <</Type /Action
+/S /URI
+/URI (https://en.wikibooks.org/wiki/OpenSCAD_User_Manual/Transformations#translate)>>>> <</Type /Annot
+/Subtype /Link
+/Border [0 0 0]
+/Rect [205.6474 518.9843 230.4535 527.7865]
+/A <</Type /Action
+/S /URI
+/URI (https://en.wikibooks.org/wiki/OpenSCAD_User_Manual/Transformations#rotate)>>>> <</Type /Annot
+/Subtype /Link
+/Border [0 0 0]
+/Rect [205.6474 506.9814 226.4525 515.7836]
+/A <</Type /Action
+/S /URI
+/URI (https://en.wikibooks.org/wiki/OpenSCAD_User_Manual/Transformations#scale)>>>> <</Type /Annot
+/Subtype /Link
+/Border [0 0 0]
+/Rect [205.6474 494.9785 230.4535 503.7806]
+/A <</Type /Action
+/S /URI
+/URI (https://en.wikibooks.org/wiki/OpenSCAD_User_Manual/Transformations#resize)>>>> <</Type /Annot
+/Subtype /Link
+/Border [0 0 0]
+/Rect [205.6474 482.9755 230.4535 491.7777]
+/A <</Type /Action
+/S /URI
+/URI (https://en.wikibooks.org/wiki/OpenSCAD_User_Manual/Transformations#mirror)>>>> <</Type /Annot
+/Subtype /Link
+/Border [0 0 0]
+/Rect [205.6474 470.9726 247.2576 479.7747]
+/A <</Type /Action
+/S /URI
+/URI (https://en.wikibooks.org/wiki/OpenSCAD_User_Manual/Transformations#multmatrix)>>>> <</Type /Annot
+/Subtype /Link
+/Border [0 0 0]
+/Rect [205.6474 458.1694 226.4525 466.9716]
+/A <</Type /Action
+/S /URI
+/URI (https://en.wikibooks.org/wiki/OpenSCAD_User_Manual/Transformations#color)>>>> <</Type /Annot
+/Subtype /Link
+/Border [0 0 0]
+/Rect [205.6474 446.1665 226.4525 454.9687]
+/A <</Type /Action
+/S /URI
+/URI (https://en.wikibooks.org/wiki/OpenSCAD_User_Manual/Transformations#color)>>>> <</Type /Annot
+/Subtype /Link
+/Border [0 0 0]
+/Rect [205.6474 434.1636 230.4535 442.9657]
+/A <</Type /Action
+/S /URI
+/URI (https://en.wikibooks.org/wiki/OpenSCAD_User_Manual/Transformations#offset)>>>> <</Type /Annot
+/Subtype /Link
+/Border [0 0 0]
+/Rect [205.6474 422.1606 222.4515 430.9628]
+/A <</Type /Action
+/S /URI
+/URI (https://en.wikibooks.org/wiki/OpenSCAD_User_Manual/Transformations#hull)>>>> <</Type /Annot
+/Subtype /Link
+/Border [0 0 0]
+/Rect [205.6474 410.1577 243.2566 418.9598]
+/A <</Type /Action
+/S /URI
+/URI (https://en.wikibooks.org/wiki/OpenSCAD_User_Manual/Transformations#minkowski)>>>> <</Type /Annot
+/Subtype /Link
+/Border [0 0 0]
+/Rect [205.6474 365.3467 226.4525 374.1489]
+/A <</Type /Action
+/S /URI
+/URI (https://en.wikibooks.org/wiki/OpenSCAD_User_Manual/CSG_Modelling#union)>>>> <</Type /Annot
+/Subtype /Link
+/Border [0 0 0]
+/Rect [205.6474 353.3438 247.2576 362.1459]
+/A <</Type /Action
+/S /URI
+/URI (https://en.wikibooks.org/wiki/OpenSCAD_User_Manual/CSG_Modelling#difference)>>>> <</Type /Annot
+/Subtype /Link
+/Border [0 0 0]
+/Rect [205.6474 340.5406 255.2596 349.3428]
+/A <</Type /Action
+/S /URI
+/URI (https://en.wikibooks.org/wiki/OpenSCAD_User_Manual/CSG_Modelling#intersection)>>>> <</Type /Annot
+/Subtype /Link
+/Border [0 0 0]
+/Rect [347.2821 531.7875 359.285 540.5896]
+/A <</Type /Action
+/S /URI
+/URI (https://en.wikibooks.org/wiki/OpenSCAD_User_Manual/Mathematical_Functions#abs)>>>> <</Type /Annot
+/Subtype /Link
+/Border [0 0 0]
+/Rect [347.2821 518.9843 363.286 527.7865]
+/A <</Type /Action
+/S /URI
+/URI (https://en.wikibooks.org/wiki/OpenSCAD_User_Manual/Mathematical_Functions#sign)>>>> <</Type /Annot
+/Subtype /Link
+/Border [0 0 0]
+/Rect [347.2821 506.9814 359.285 515.7836]
+/A <</Type /Action
+/S /URI
+/URI (https://en.wikibooks.org/wiki/OpenSCAD_User_Manual/Mathematical_Functions#sin)>>>> <</Type /Annot
+/Subtype /Link
+/Border [0 0 0]
+/Rect [347.2821 494.9785 359.285 503.7806]
+/A <</Type /Action
+/S /URI
+/URI (https://en.wikibooks.org/wiki/OpenSCAD_User_Manual/Mathematical_Functions#cos)>>>> <</Type /Annot
+/Subtype /Link
+/Border [0 0 0]
+/Rect [347.2821 482.9755 359.285 491.7777]
+/A <</Type /Action
+/S /URI
+/URI (https://en.wikibooks.org/wiki/OpenSCAD_User_Manual/Mathematical_Functions#tan)>>>> <</Type /Annot
+/Subtype /Link
+/Border [0 0 0]
+/Rect [347.2821 470.9726 363.286 479.7747]
+/A <</Type /Action
+/S /URI
+/URI (https://en.wikibooks.org/wiki/OpenSCAD_User_Manual/Mathematical_Functions#acos)>>>> <</Type /Annot
+/Subtype /Link
+/Border [0 0 0]
+/Rect [347.2821 458.1694 363.286 466.9716]
+/A <</Type /Action
+/S /URI
+/URI (https://en.wikibooks.org/wiki/OpenSCAD_User_Manual/Mathematical_Functions#asin)>>>> <</Type /Annot
+/Subtype /Link
+/Border [0 0 0]
+/Rect [347.2821 446.1665 363.286 454.9687]
+/A <</Type /Action
+/S /URI
+/URI (https://en.wikibooks.org/wiki/OpenSCAD_User_Manual/Mathematical_Functions#atan)>>>> <</Type /Annot
+/Subtype /Link
+/Border [0 0 0]
+/Rect [347.2821 434.1636 368.0872 442.9657]
+/A <</Type /Action
+/S /URI
+/URI (https://en.wikibooks.org/wiki/OpenSCAD_User_Manual/Mathematical_Functions#atan2)>>>> <</Type /Annot
+/Subtype /Link
+/Border [0 0 0]
+/Rect [347.2821 422.1606 368.0872 430.9628]
+/A <</Type /Action
+/S /URI
+/URI (https://en.wikibooks.org/wiki/OpenSCAD_User_Manual/Mathematical_Functions#floor)>>>> <</Type /Annot
+/Subtype /Link
+/Border [0 0 0]
+/Rect [347.2821 410.1577 368.0872 418.9598]
+/A <</Type /Action
+/S /URI
+/URI (https://en.wikibooks.org/wiki/OpenSCAD_User_Manual/Mathematical_Functions#round)>>>> <</Type /Annot
+/Subtype /Link
+/Border [0 0 0]
+/Rect [347.2821 397.3546 363.286 406.1567]
+/A <</Type /Action
+/S /URI
+/URI (https://en.wikibooks.org/wiki/OpenSCAD_User_Manual/Mathematical_Functions#ceil)>>>> <</Type /Annot
+/Subtype /Link
+/Border [0 0 0]
+/Rect [347.2821 385.3516 355.284 394.1538]
+/A <</Type /Action
+/S /URI
+/URI (https://en.wikibooks.org/wiki/OpenSCAD_User_Manual/Mathematical_Functions#ln)>>>> <</Type /Annot
+/Subtype /Link
+/Border [0 0 0]
+/Rect [347.2821 373.3487 359.285 382.1508]
+/A <</Type /Action
+/S /URI
+/URI (https://en.wikibooks.org/wiki/OpenSCAD_User_Manual/Mathematical_Functions#len)>>>> <</Type /Annot
+/Subtype /Link
+/Border [0 0 0]
+/Rect [347.2821 361.3458 359.285 370.1479]
+/A <</Type /Action
+/S /URI
+/URI (https://en.wikibooks.org/wiki/OpenSCAD_User_Manual/Mathematical_Functions#let)>>>> <</Type /Annot
+/Subtype /Link
+/Border [0 0 0]
+/Rect [347.2821 349.3428 359.285 358.145]
+/A <</Type /Action
+/S /URI
+/URI (https://en.wikibooks.org/wiki/OpenSCAD_User_Manual/Mathematical_Functions#log)>>>> <</Type /Annot
+/Subtype /Link
+/Border [0 0 0]
+/Rect [347.2821 337.3399 359.285 346.142]
+/A <</Type /Action
+/S /URI
+/URI (https://en.wikibooks.org/wiki/OpenSCAD_User_Manual/Mathematical_Functions#pow)>>>> <</Type /Annot
+/Subtype /Link
+/Border [0 0 0]
+/Rect [347.2821 324.5367 363.286 333.3389]
+/A <</Type /Action
+/S /URI
+/URI (https://en.wikibooks.org/wiki/OpenSCAD_User_Manual/Mathematical_Functions#sqrt)>>>> <</Type /Annot
+/Subtype /Link
+/Border [0 0 0]
+/Rect [347.2821 312.5338 359.285 321.3359]
+/A <</Type /Action
+/S /URI
+/URI (https://en.wikibooks.org/wiki/OpenSCAD_User_Manual/Mathematical_Functions#exp)>>>> <</Type /Annot
+/Subtype /Link
+/Border [0 0 0]
+/Rect [347.2821 300.5309 368.0872 309.333]
+/A <</Type /Action
+/S /URI
+/URI (https://en.wikibooks.org/wiki/OpenSCAD_User_Manual/Mathematical_Functions#rands)>>>> <</Type /Annot
+/Subtype /Link
+/Border [0 0 0]
+/Rect [347.2821 288.5279 359.285 297.3301]
+/A <</Type /Action
+/S /URI
+/URI (https://en.wikibooks.org/wiki/OpenSCAD_User_Manual/Mathematical_Functions#min)>>>> <</Type /Annot
+/Subtype /Link
+/Border [0 0 0]
+/Rect [347.2821 276.525 359.285 285.3271]
+/A <</Type /Action
+/S /URI
+/URI (https://en.wikibooks.org/wiki/OpenSCAD_User_Manual/Mathematical_Functions#max)>>>> <</Type /Annot
+/Subtype /Link
+/Border [0 0 0]
+/Rect [433.7032 531.7875 458.5093 540.5896]
+/A <</Type /Action
+/S /URI
+/URI (https://en.wikibooks.org/wiki/OpenSCAD_User_Manual/Mathematical_Functions#concat)>>>> <</Type /Annot
+/Subtype /Link
+/Border [0 0 0]
+/Rect [433.7032 518.9843 458.5093 527.7865]
+/A <</Type /Action
+/S /URI
+/URI (https://en.wikibooks.org/wiki/OpenSCAD_User_Manual/Mathematical_Functions#lookup)>>>> <</Type /Annot
+/Subtype /Link
+/Border [0 0 0]
+/Rect [433.7032 506.9814 445.7062 515.7836]
+/A <</Type /Action
+/S /URI
+/URI (https://en.wikibooks.org/wiki/OpenSCAD_User_Manual/String_Functions#str)>>>> <</Type /Annot
+/Subtype /Link
+/Border [0 0 0]
+/Rect [433.7032 494.9785 445.7062 503.7806]
+/A <</Type /Action
+/S /URI
+/URI (https://en.wikibooks.org/wiki/OpenSCAD_User_Manual/String_Functions#chr)>>>> <</Type /Annot
+/Subtype /Link
+/Border [0 0 0]
+/Rect [433.7032 482.9755 458.5093 491.7777]
+/A <</Type /Action
+/S /URI
+/URI (https://en.wikibooks.org/wiki/OpenSCAD_User_Manual/Other_Language_Features#Search)>>>> <</Type /Annot
+/Subtype /Link
+/Border [0 0 0]
+/Rect [433.7032 470.9726 462.5103 479.7747]
+/A <</Type /Action
+/S /URI
+/URI (https://en.wikibooks.org/wiki/OpenSCAD_User_Manual/Other_Language_Features#OpenSCAD_Version)>>>> <</Type /Annot
+/Subtype /Link
+/Border [0 0 0]
+/Rect [433.7032 458.1694 479.3144 466.9716]
+/A <</Type /Action
+/S /URI
+/URI (https://en.wikibooks.org/wiki/OpenSCAD_User_Manual/Other_Language_Features#OpenSCAD_Version)>>>> <</Type /Annot
+/Subtype /Link
+/Border [0 0 0]
+/Rect [433.7032 446.1665 449.7072 454.9687]
+/A <</Type /Action
+/S /URI
+/URI (https://en.wikibooks.org/wiki/OpenSCAD_User_Manual/Mathematical_Functions#norm)>>>> <</Type /Annot
+/Subtype /Link
+/Border [0 0 0]
+/Rect [433.7032 434.1636 454.5083 442.9657]
+/A <</Type /Action
+/S /URI
+/URI (https://en.wikibooks.org/wiki/OpenSCAD_User_Manual/Mathematical_Functions#cross)>>>> <</Type /Annot
+/Subtype /Link
+/Border [0 0 0]
+/Rect [433.7032 422.1606 487.3163 430.9628]
+/A <</Type /Action
+/S /URI
+/URI (https://en.wikibooks.org/wiki/OpenSCAD_User_Manual/Other_Language_Features#parent_module.28n.29_and_.24parent_modules)>>>> <</Type /Annot
+/Subtype /Link
+/Border [0 0 0]
+/Rect [524.9255 531.7875 541.7297 540.5896]
+/A <</Type /Action
+/S /URI
+/URI (https://en.wikibooks.org/wiki/OpenSCAD_User_Manual/Other_Language_Features#Echo_Statements)>>>> <</Type /Annot
+/Subtype /Link
+/Border [0 0 0]
+/Rect [524.9255 518.9843 536.9285 527.7865]
+/A <</Type /Action
+/S /URI
+/URI (https://en.wikibooks.org/wiki/OpenSCAD_User_Manual/Conditional_and_Iterator_Functions#For_Loop)>>>> <</Type /Annot
+/Subtype /Link
+/Border [0 0 0]
+/Rect [524.9255 506.9814 536.9285 515.7836]
+/A <</Type /Action
+/S /URI
+/URI (https://en.wikibooks.org/wiki/OpenSCAD_User_Manual/Conditional_and_Iterator_Functions#For_Loop)>>>> <</Type /Annot
+/Subtype /Link
+/Border [0 0 0]
+/Rect [524.9255 494.9785 536.9285 503.7806]
+/A <</Type /Action
+/S /URI
+/URI (https://en.wikibooks.org/wiki/OpenSCAD_User_Manual/Conditional_and_Iterator_Functions#For_Loop)>>>> <</Type /Annot
+/Subtype /Link
+/Border [0 0 0]
+/Rect [524.9255 482.9755 591.3418 491.7777]
+/A <</Type /Action
+/S /URI
+/URI (https://en.wikibooks.org/wiki/OpenSCAD_User_Manual/Conditional_and_Iterator_Functions#Intersection_For_Loop)>>>> <</Type /Annot
+/Subtype /Link
+/Border [0 0 0]
+/Rect [524.9255 470.9726 591.3418 479.7747]
+/A <</Type /Action
+/S /URI
+/URI (https://en.wikibooks.org/wiki/OpenSCAD_User_Manual/Conditional_and_Iterator_Functions#Intersection_For_Loop)>>>> <</Type /Annot
+/Subtype /Link
+/Border [0 0 0]
+/Rect [524.9255 458.1694 591.3418 466.9716]
+/A <</Type /Action
+/S /URI
+/URI (https://en.wikibooks.org/wiki/OpenSCAD_User_Manual/Conditional_and_Iterator_Functions#Intersection_For_Loop)>>>> <</Type /Annot
+/Subtype /Link
+/Border [0 0 0]
+/Rect [524.9255 446.1665 532.9275 454.9687]
+/A <</Type /Action
+/S /URI
+/URI (https://en.wikibooks.org/wiki/OpenSCAD_User_Manual/Conditional_and_Iterator_Functions#If_Statement)>>>> <</Type /Annot
+/Subtype /Link
+/Border [0 0 0]
+/Rect [524.9255 434.1636 549.7316 442.9657]
+/A <</Type /Action
+/S /URI
+/URI (https://en.wikibooks.org/wiki/OpenSCAD_User_Manual/Conditional_and_Iterator_Functions#Assign_Statement)>>>> <</Type /Annot
+/Subtype /Link
+/Border [0 0 0]
+/Rect [524.9255 422.1606 549.7316 430.9628]
+/A <</Type /Action
+/S /URI
+/URI (https://en.wikibooks.org/wiki/OpenSCAD_User_Manual/Importing_Geometry#import)>>>> <</Type /Annot
+/Subtype /Link
+/Border [0 0 0]
+/Rect [524.9255 410.1577 583.3398 418.9598]
+/A <</Type /Action
+/S /URI
+/URI (https://en.wikibooks.org/wiki/OpenSCAD_User_Manual/Using_the_2D_Subsystem#Linear_Extrude)>>>> <</Type /Annot
+/Subtype /Link
+/Border [0 0 0]
+/Rect [524.9255 397.3546 583.3398 406.1567]
+/A <</Type /Action
+/S /URI
+/URI (https://en.wikibooks.org/wiki/OpenSCAD_User_Manual/Using_the_2D_Subsystem#Rotate_Extrude)>>>> <</Type /Annot
+/Subtype /Link
+/Border [0 0 0]
+/Rect [524.9255 385.3516 553.7326 394.1538]
+/A <</Type /Action
+/S /URI
+/URI (https://en.wikibooks.org/wiki/OpenSCAD_User_Manual/Other_Language_Features#Surface)>>>> <</Type /Annot
+/Subtype /Link
+/Border [0 0 0]
+/Rect [524.9255 373.3487 566.5358 382.1508]
+/A <</Type /Action
+/S /URI
+/URI (https://en.wikibooks.org/wiki/OpenSCAD_User_Manual/Using_the_2D_Subsystem#3D_to_2D_Projection)>>>> <</Type /Annot
+/Subtype /Link
+/Border [0 0 0]
+/Rect [524.9255 361.3458 549.7316 370.1479]
+/A <</Type /Action
+/S /URI
+/URI (https://en.wikibooks.org/wiki/OpenSCAD_User_Manual/Other_Language_Features#Render)>>>> <</Type /Annot
+/Subtype /Link
+/Border [0 0 0]
+/Rect [524.9255 349.3428 557.7336 358.145]
+/A <</Type /Action
+/S /URI
+/URI (https://en.wikibooks.org/wiki/OpenSCAD_User_Manual/Modules#children)>>>> <</Type /Annot
+/Subtype /Link
+/Border [0 0 0]
+/Rect [433.7032 304.5318 466.5113 313.334]
+/A <</Type /Action
+/S /URI
+/URI (https://en.wikibooks.org/wiki/OpenSCAD_User_Manual/List_Comprehensions#for)>>>> <</Type /Annot
+/Subtype /Link
+/Border [0 0 0]
+/Rect [433.7032 292.5289 475.3134 301.3311]
+/A <</Type /Action
+/S /URI
+/URI (https://en.wikibooks.org/wiki/OpenSCAD_User_Manual/List_Comprehensions#if)>>>> <</Type /Annot
+/Subtype /Link
+/Border [0 0 0]
+/Rect [433.7032 279.7258 479.3144 288.5279]
+/A <</Type /Action
+/S /URI
+/URI (https://en.wikibooks.org/wiki/OpenSCAD_User_Manual/List_Comprehensions#let)>>>> <</Type /Annot
+/Subtype /Link
+/Border [0 0 0]
+/Rect [433.7032 234.9148 445.7062 243.7169]
+/A <</Type /Action
+/S /URI
+/URI (https://en.wikibooks.org/wiki/OpenSCAD_User_Manual/Other_Language_Features#.24fa.2C_.24fs_and_.24fn)>>>> <</Type /Annot
+/Subtype /Link
+/Border [0 0 0]
+/Rect [433.7032 222.9119 445.7062 231.714]
+/A <</Type /Action
+/S /URI
+/URI (https://en.wikibooks.org/wiki/OpenSCAD_User_Manual/Other_Language_Features#.24fa.2C_.24fs_and_.24fn)>>>> <</Type /Annot
+/Subtype /Link
+/Border [0 0 0]
+/Rect [433.7032 210.9089 445.7062 219.7111]
+/A <</Type /Action
+/S /URI
+/URI (https://en.wikibooks.org/wiki/OpenSCAD_User_Manual/Other_Language_Features#.24fa.2C_.24fs_and_.24fn)>>>> <</Type /Annot
+/Subtype /Link
+/Border [0 0 0]
+/Rect [433.7032 198.906 441.7052 207.7081]
+/A <</Type /Action
+/S /URI
+/URI (https://en.wikibooks.org/wiki/OpenSCAD_User_Manual/Other_Language_Features#.24t)>>>> <</Type /Annot
+/Subtype /Link
+/Border [0 0 0]
+/Rect [433.7032 186.903 449.7072 195.7052]
+/A <</Type /Action
+/S /URI
+/URI (https://en.wikibooks.org/wiki/OpenSCAD_User_Manual/Other_Language_Features#.24vpr.2C_.24vpt_and_.24vpd)>>>> <</Type /Annot
+/Subtype /Link
+/Border [0 0 0]
+/Rect [433.7032 174.9001 449.7072 183.7023]
+/A <</Type /Action
+/S /URI
+/URI (https://en.wikibooks.org/wiki/OpenSCAD_User_Manual/Other_Language_Features#.24vpr.2C_.24vpt_and_.24vpd)>>>> <</Type /Annot
+/Subtype /Link
+/Border [0 0 0]
+/Rect [433.7032 162.097 449.7072 170.8991]
+/A <</Type /Action
+/S /URI
+/URI (https://en.wikibooks.org/wiki/OpenSCAD_User_Manual/Other_Language_Features#.24vpr.2C_.24vpt_and_.24vpd)>>>> <</Type /Annot
+/Subtype /Link
+/Border [0 0 0]
+/Rect [433.7032 150.094 470.5122 158.8962]
+/A <</Type /Action
+/S /URI
+/URI (https://en.wikibooks.org/wiki/OpenSCAD_User_Manual/Modules#children)>>>> <</Type /Annot
+/Subtype /Link
+/Border [0 0 0]
+/Rect [52.0098 117.286 118.426 126.0882]
+/A <</Type /Action
+/S /URI
+/URI (http://www.openscad.org/)>>>> <</Type /Annot
+/Subtype /Link
+/Border [0 0 0]
+/Rect [131.2292 117.286 147.2331 126.0882]
+/A <</Type /Action
+/S /URI
+/URI (https://github.com/openscad/openscad)>>>> <</Type /Annot
+/Subtype /Link
+/Border [0 0 0]
+/Rect [160.0362 117.286 184.8423 126.0882]
+/A <</Type /Action
+/S /URI
+/URI (https://github.com/openscad/openscad/issues)>>>> <</Type /Annot
+/Subtype /Link
+/Border [0 0 0]
+/Rect [197.6454 117.286 222.4515 126.0882]
+/A <</Type /Action
+/S /URI
+/URI (http://en.wikibooks.org/wiki/OpenSCAD_User_Manual)>>>> <</Type /Annot
+/Subtype /Link
+/Border [0 0 0]
+/Rect [234.4545 117.286 284.8668 126.0882]
+/A <</Type /Action
+/S /URI
+/URI (https://github.com/openscad/MCAD)>>>> <</Type /Annot
+/Subtype /Link
+/Border [0 0 0]
+/Rect [296.8697 117.286 317.6748 126.0882]
+/A <</Type /Action
+/S /URI
+/URI (http://forum.openscad.org/)>>>> <</Type /Annot
+/Subtype /Link
+/Border [0 0 0]
+/Rect [330.478 117.286 376.0891 126.0882]
+/A <</Type /Action
+/S /URI
+/URI (http://fablabamersfoort.nl/book/openscad)>>>> <</Type /Annot
+/Subtype /Link
+/Border [0 0 0]
+/Rect [768.1851 100.4819 820.1978 106.0833]
+/A <</Type /Action
+/S /URI
+/URI (https://github.com/openscad/openscad.github.com/tree/master/cheatsheet)>>>> <</Type /Annot
+/Subtype /Link
+/Border [0 0 0]
+/Rect [698.5681 92.4799 739.3781 98.0813]
+/A <</Type /Action
+/S /URI
+/URI (http://www.peteruithoven.nl/)>>>> <</Type /Annot
+/Subtype /Link
+/Border [0 0 0]
+/Rect [748.1802 92.4799 796.9921 98.0813]
+/A <</Type /Action
+/S /URI
+/URI (http://www.fablabamersfoort.nl/)>>>> <</Type /Annot
+/Subtype /Link
+/Border [0 0 0]
+/Rect [803.3937 92.4799 817.7972 98.0813]
+/A <</Type /Action
+/S /URI
+/URI (http://freedomdefined.org/Licenses/CC-BY)>>>>]
+/Contents 16 0 R
+/Parent 2 0 R>>
+endobj
+4 0 obj
+<</Type /ExtGState
+/Type /ExtGState
+/CA 1
+/ca 1
+/LC 0
+/LJ 0
+/LW 0
+/ML 4
+/SA true
+/BM /Normal>>
+endobj
+5 0 obj
+<</Type /ExtGState
+/Type /ExtGState
+/CA 1
+/ca 1
+/LC 0
+/LJ 0
+/LW 1
+/ML 4
+/SA true
+/BM /Normal>>
+endobj
+6 0 obj
+<</Type /Font
+/Subtype /Type0
+/BaseFont /UbuntuMono-Bold
+/Encoding /Identity-H
+/DescendantFonts [7 0 R]
+/ToUnicode 10 0 R>>
+endobj
+7 0 obj
+<</Type /Font
+/FontDescriptor 8 0 R
+/BaseFont /UbuntuMono-Bold
+/Subtype /CIDFontType2
+/CIDToGIDMap /Identity
+/CIDSystemInfo <</Registry (Adobe)
+/Ordering (Identity)
+/Supplement 0>>
+/W [0 92 500]>>
+endobj
+8 0 obj
+<</Type /FontDescriptor
+/FontName /UbuntuMono-Bold
+/Flags 4
+/Ascent 830.0781
+/Descent -169.9219
+/StemV 166.0156
+/CapHeight 619.1406
+/ItalicAngle 0
+/FontBBox [0 -169.9219 500 734.8633]
+/FontFile2 9 0 R>>
+endobj
+9 0 obj
+<</Length1 9696
+/Filter /FlateDecode
+/Length 6382>> stream
+xœÕ:}tÕ½÷ÎÌ~ovgv7»Ùl6;“Éf	›dI–dYIˆ!Ä%ÄCº‰1’/
+	Š|•RŒ4ÁZ¡´X•R‹<ÏRÎÌ’RäùzPjÕ*õ¤(>žÇÇZMµ-=ÚÂæýîÌ,jÏëïŸ·ËÝ{ïoî½¿ï;a„=„h4kõƒ«'¾õè“g tx¸wÕà=¹p9Bâ×¢VõnX÷ã£áxÎ¯éï=?ßë_˜uhÕƒ>[Àx¬wöšŸÓY`íeh…0øü‘«aü"´ªå+7.[üö«ÿ‚ém„¼—­^¾Ê>¹îìì_÷ oþºõ{p>44«Uïê—Ûý;„èfxþ "´£7ßÄÏ²¼Ç>÷S0 úåóƒ»¦ûôé.ÀZ#¢ú}úéˆÀáÃ õ¤ë>c
+d5"2§`N!7YˆWj{”Ï+ch¸ú´ ´Fh´0À7Cÿ´ÃÐz µŒ‚þ#èÐ/…Ö­ZZ;´˜#ë µ@ëÖÖ_RÇä¥=¦át@Ñö’~Tk1m=uhã]Ð"Úù±›ö‘3£ÐZ¡ù´umÜ£Ò­Ðtš ºÈÞ.h[´>­¡·A£#¡íËŒ«µq¦'ëj4ç¡ù5ÜÅZÛ®®Å[µ=aUö
+]-QÆ(¡‹ú£ªåL?…¶6}¡µã0/…þåœ®k#š^CjSôBh$ü‘=äî ýŠb'´Öò4‹ú9Ì`„	Â¼ñ0Ò£¯£gÐ³èŸÑ¿¢Ãhœ7ó.ÞËûù¾ˆð÷ð‡„‚óhjŠø¬Û¯¬û1¬C<Ëçðy7¯›ú`êå©—¦NLýûÔñ©Ÿœ¿÷üàù¾óKÏwŸï<Çù‚sgÎõòßøÿ»¬ŸvL)¶Ó`‘ÑéF“ÙbÍ²ÙYÎáte»=9Þ\_ž??Àba°(4£xf¸¤´,2«¼":»²*6'~KõÜy5µuóëomXÐ¸°é¶Ä¢æÅ-··ÞÑvgû’Ž¯$;»îê¾»çž¥½ÿ •ý C4´lëŠdðË–méSº¿¶ù«›”áÃÿþßhKB%r.’f¶&¥ÄºN	‰µ9’>œœ×©À6wòoKØY–S*áþ?%k¸T¢Jµ%ˆB©D—¬Èá¥ºÖ¤ Õu–JL	Ù*ˆÂW“ïûNuú`]òªï>Qtá¤Ô¸®SyÐÙ	çéJ²º»J%}‰\€ìü#ÝÝ>	Á1†¹PÕ]K”J¦~3Aòs8†—èàm"/1E		µ&wîèåÉ`ŽO:};”Y›:#Í*u¬àDK	ÿk…k	‘áî$Ï/{ïå“ü@ŸzY—E0j~¿pGc¯¸ƒß!*èDr¸T+?êÉöØLóÎä‚?³Ä ›nj–h´	Ê2{‰ÈŸÑ‹|rÑ>AÂÉÀÐmâ‘ßqÛ±—lP·®Tb‰@7G ÇMì Ø{ïÒë9![%ÀÄŽmDl‰q‡Aâ[“s}'à‰«äªÃuõõxÑ1õ#å—,^’$¿mI±¨ë}Ða±$_×–L½ÞÚ_ŸÂ<†Nâû%ï`^Wv‰PüðxOIø1´H2¶&eŒ¿Õ)7mH,š«uúAjÝI$1ü‰7H:~AŠù*&,é5¨ úyTX¦×ÁÔÈ/8Žô[¦PÒ)¹ÂµÁÿè“Ì%4ÞCWÐ$´SèS”Bo¡]à_ Ñô:‹^@?;$Vü¯ß!øþÎÁðe|™jþ;ßãtýmú"}‘)¸îÛÄ\b.é´ïqÝïÿÞW¿RÿƒÛ0lø±
+¾_3þ†|Mù¦ï˜Þ6™†ïË–¹–=–3Vòi±¾ýý…ˆµ	Õ§k‡ìc@sAj…Ç¡±3á”†1VÆX2F$tfœ1 ,&,1¬¬ÃáqZ™É&F³Ê£œÀNh òÓAü½ô®ý/‡˜7Æ‰©Iêî@vT‰R‚A§CVÀpÝK¬‚Á¨'3­“9åèàì*ZáÎvéÅ‚2
+'ògÏ67çÏÎß¾µÔÛÓÑu7Ò@2jÓÔ‡ô1‹ÌPƒñè”2Ù¦›LÑÀŽìÒMŽçLtVx<Wà^Ùb˜”,¬œƒÃ²†~–à–õ†IZaÙ‚8‡dŠËþÎ‘²¹èx<.ë9€ãHÎpŽ#z‡
+=ñYåNÖ­pp,ÅSN—;ZQU9»H,Ð»gW„ƒ¦O¿{áBºíÂ#Ë†V­Z62PSY^WW^ImÆÍxaúßÒ©´”>†›pë{¿ýí{g?øàÊH[ÛH+"Ò}ˆ¹ŒXTRfÂ›…™”)°‡%."YÏÈýdÊ`5‡ÔL¦pÊj C«Ù–ÀŒÁ
+„ëâ Xg‹rÑl¡RàlØÐW¾fÍ²à¡+WÒØÿN”¾èˆ7¶ÿõý‰	ê•â:‡‚?	øS ß"Ô„RÙ¿ƒÑd+ê&±ŠHüÙy‚Õè¬3@²#ÐæÄ%‘KóŠ@‚í‘XŽVäSÙ.eÇ6*[ÈŠ@j5¸×`Uz†dÛ»÷µ<>\_Þ¶¼ržX¦„+¯è©EkoÝ|KsOSõ7j™¡Ž¶Ò®í]õÖÜW~KAÓm	WuÙwÕ®ßki+E8Fí`{þ±0¡ŸÛÈ#ôgƒmX-á¼¬°le€•YlÏÈEúIÉÁŸádxr„'‡x*I
+`I`ÂáE²p2Ö$+KÙ\*‡§yÉœÖâ|¬ZDWF+j(»*—Þ‰ˆ™·—Gö®xfSKO¨¥¦èÎDÓcÑ»b?]sï¾eåûVÝ²î…-‘¡Þ;Â§]e#m­l°&Òx{D|!¸¨réÖï=,~f8ù•sí./ðMüb7Øˆæ£T Ã7§øa¶0"™ÎÈ¹úI9Œåš8‡ìpÆ	k•5—Â¶\`&Ã¡¾Œ«1P˜ÞŽ§IoŠ–>º"±4æ*Xqb¯Ë«§¶¥›½9ýÅ¼-/n._ÞÓšð…h½X™¬+8„OMÔ/\Ëž9‘Ü3\“åð"RI‚µÑŸ ½ðã-j\’QÅÐÆÍV,›	ÝžñY©*÷ø¼mŸô¡ì°Y¢Ël>!;¬_H®fP˜v†%{Äér8Ã)˜’\'êmœ#žtèµi|ð8EkÃ2©.“Ðæða!;Z ÑPQ„Ø)vtÝ‚Ÿ#íé?W§Ç‡>÷ZíBQ‘`÷áõx6u[zòêÎônL¿‡?ÛZ[»å‘G¶ÔlA$FLý‰~IGn‰"š…6¡”‹èÃú`ˆ>JÁ=.X,$,–+*ì°°BÊaed‡Ùb•&ÐX fÈÄ¸|$2™xP™tçs©ºóp’=. TÊA “‡„A“1.ã{Ó¦Wää2ê-CŠ¹‚šÁJGš~ÔþøO–“‰Ñ»[Æ~:Ô>þ¬¯.?ÜVW¼¶ï‘þ¥}yåõ¢¿&ÇÅ¼euV÷®›Ûõhqä™äš'»Cª8}al¡¦XwëD{¢40“K/h5vùøc ÍC)?‘ƒä@‚	ÚXâæÀ¥@‚ˆÛåÆ%—B/q-C2“ ¢äˆ|À†2,@Q‚oÌcÃ"bOÞÜ°²Í7s~d¬£úþäœ=Ï÷†ê*º>}9ý!µiß§Ï'Ý~ÖûZ`fxààæ³•º_b¸S±E¢¯×A_,PJÙ•ÎŒ¶ò	•
+•(…ce/¨ƒ¨E„ÞIB¶1Ä‘œ6Uù_® Eô1w5Î8‘xÇõ›µ³5¹÷ÝÑ†‡ds–§ãÁ¦€wÞ}íl1gcÞqd%¾ùôùÞ…¶·¨ùköõ´=½¾‰RÞRŒ‚¡mÿ1¡:Õ{R˜PË0“ã:#Â`[:b[f…p Vb*R&D¢›‰6‘_Ä8K&³gJ¥W/ã7Ò•Ìå‰ô©‰«Ô˜ºp\:T¢â’iÈ	XIHz±“VN§up®A;—œ¼+M˜ËdÔ³"pÖœåCŸh^ŸUÌA²G±”§œæƒ[!ùXÙ®ï©³`ogÈeƒ_/O]|ŽDFÊ…à=!³¾Ì'ŽÏ}ç¢_…{ žsB¶Ú¾f#yöòå‹¯Ã3‹dd˜Œfg8³Ú"™Ù#³À¯  ›ž¡:“rÛ%wÜ²ÌU`9^mNÂŠìCJ–ìœ¤'¹8ê¬ÊÅ±h€®¥ªbQ§;{D'-ÒÎH–sÛ'
+ËÊ#Ñh©‹›ÈËrZ™³öÛcÁñ"<gld×¾Ý{÷~³>œ~q_úô«è³W?¦r®„û%>ö:ø˜	å¢…(e$²g*¢b¿¾ˆ„¡Ò+5‹>`¿yÐ»,`¿FšØoŽÊ¬Ó«eŽC)sX0S‡+Ÿ"ál¶À†c—Þ=÷ûOÎžsÙÃ‹ëk[Ãvè¿±8Œ£ÔN¼8}äêêtŠºtlÿú6>£vªÞÛ€ÆÃ@cTÞ©¬šjÊM(ôCD$ç9 XRqÊÅ@á,èNŽ¸’dâ~ÂØÝþ`	';RÞ\Rc@þ*QÝÎÏÁÎÜbòÔ}}6V½-TFW*šG	ÙÀ“'ŸV*Î¢¶Dì©áÚ%åŽÒÆŽp|Ó@ýÇo¬ýñÜDtsÛëÅu­EÕ¯lüèâ¾ßâ¾Hu T	±®ª¶w¥^«^öÏØŒ…›'Ö½}Eêdð?6n@· ”þšo"(äè
+¥ÔÖŸ‘uà2:=q8dJ¯#C=2eêmg%ñH‘‹ÒOA½Èˆ}Ÿ}wMMÒÛè÷ ¦–¡(å#ÒAšJ-Ç!Ÿ*`ƒD¨µuJ§ˆœ‹ó¬\.d¨sª”yDâ˜âmwDgqø@ŽH}jIâ@Â²E3[\rl“‰ÈžKœl¨3I‰S£s¥«»ê‡w.î[|×pÓX±9t÷úï÷ÇÎnëÞs_üó¾–â¿·1/”ˆ	8Ô¾fA€ÍoZê²¿Áúbƒ»º®ž´Í{êcó(2¼ä
+2Ø28©{êˆ º¥ØLfÑäÝY$ªBrªaÛ¢æÙF%ëYb?nVµŸ<N²Ä%½C¢•°}sàÎv„×-W*û*z_ZQ³þÐpß©£þZOßšÎ®âÛý~Ý‚p:àu4»Íñ­MþWõÌØ¶íô°ÄˆÞŽ+zƒ\˜‹Õ’4¥#[§)æ2¹0;W•¾r¡É£åBã5Ék¦|C&ÉwÕo{ëñŽG›bÅƒ‹»6&„=ãÕ£U…•O,ß}z[¾0ôÂöÖÿ6O¸ùÞš±'XÇ¯\y-Û^Pdúî™Ú :ƒL­JõOâ¡ÐK(Tã3)Nì¬œ&¤¯PR!d9â‡L[‰LVå:%y‰Ýk€^¡ÚAˆÉB© J5GxÐÇOþ,Ú¼ÒøúÒcÔ{o ÒïOwµá÷.bÖ†ÿ²ÓãÇ–ÿ}–a(+ëÙIè­z<sQ­B)·÷€6µ¢wf¤+€Oø¬nø„Os†"…+pâ«¬¬áV#‡ ÏòS:»›ˆÜÈ¥,¤P&Õ€edŒOk€”UÂÒ
+Jj·Qµ-[t¼ó>E]Ýùô¦æí±~w÷¦“ÛX‡G³K£åM‘\|vËK£ó¯üÙ[Éõ¬ä¹w=ºÍÇÎ…šâ¢O€½$ ŽüI÷(h#©ÚK
+SJÂTB‰§B²Gd£¦–Ü3`æ²øqU@l$ÁÄë¸’ë%Ã\WüÄ¨ìX©/0we¢•7Z“«q'qúÖ5»[Z6„#ßªë"yøÑôÚ4ui"¶*¾<á+Z‹›çE'®Ú¨KjŒ'5É6°ŸlrwUr»5ª:$G¨t+"ÏV2›•³@Ô  Ù}¹<BžToÝÄ£Ó.Ô¨ŽÇ^	tð÷îì^™×!6¸t}át©ÙY»vßÕ8½m=k¸êSãClãEÝFäD~¸S§²ˆmèÁˆñåEÆ=:ò~KùÉ¡Ô0’·"å •+ L¢Ùq—¹¸[Dä PIÃUBvçcÐgq¤0•©ö”hÍÝ`•=»J±‚¢¥¯Mˆ}5|ËöxßX«ÐÜ½õž{¶vƒ,¯êhwøßúnY¹w ÷ã›;:šª<UF‡¹(e×8PDÆ$cº2T_G2ñI Íþ¥´Õb†XVÉA-ÕÍÑ^^0X{øFšøëÅ¾F—ï&ÛÍ½õ*]®à¯}¾BŸB!´NÓ'M1ÄÍQ’pÀS"Cp‹Èq†ò†'¤ÔhRˆ%"ÏWgùÊû–LýVLòzˆdH¹,àÚ)dÍ%¡‹0Ä†¸bÄÜžëì@-œó±‹Z4æª[÷VW.É{¢­Ë«³OÙÝÖ1“Õß…­"Gïóäø±¼ÿ»ƒW_¢šãA«Þº'~âý¾†¹j½ÎvéwAÖµ¯f•WQakÉ2	”Í²7›d§ÂmçÔ’?ú%fÛð‹µkžH‚Õöøcú€C˜6Y…
+UC}ô*Ä2ÊCš¶Ý™øå#$ø\ÄÃÕdFHÈ'ÉÌE^ZÙujrA¢é ¥¦0°ÈB–Ø'U7l<Ø7ðÜÆúúõÏ½	Fw/ë„†?¸ÿøXSÓØqH^Û‰mÇ/¥Ó?ø¦ö©>5š>L¿2²ÝZ~ 1ÖêTÞ?ý©óN“KR[A²…›¼™Ò(v“TÁ(©ÂiU‹
+H†k·&§"B‡š{C^<|íx´ñ—ýç>ôÛ³t¹÷Žâ®¯,ò±ôaæ3O^úÒÇ#ÇÇ³Òß¥â¬k×Øès´ty”¼S£ßÝVkw¥ŒbIª0+×ì”¬º‘Ý¤9Håyƒ^!PÒŠV¼ý˜«¹#)–zomœï©\^Io–2f»uRo53fÛÕJÕ¶FÀ·ƒnËÑ2”Š\«}©Lí[‘¸k…Üä™@B”TeœZû öÍrû‹"¤ºé½¹Š£D¦+_.wæßT¾äb#˜T¾×ExýµÚW)lFBM?lïîËŸ#.Š­é©‰>½ªguHÜÝ½´!m(ŠmX:¯tèà¦ÍRü´¿ÜWìæZ½l¸~ yÞªöˆ?÷s$âóøs­Ž²†¡æêû—Å3±ëUæ}ˆ¾KPÊ“yG«ä/š¿JäÍSWæ†šgÖî¦©<æ‘  Ú°y€[—ÔœZâŠ)—Víz2xï]Á»Ó«\ÁJA¬žS-Šû›“ÛzÊ!Þþ¹8ý»‰ô¦Êú •1»¸³~¯¿mÏüMUOæQú$ø`­ö “1$\N™«.$Ù¨U“ä2e¤†ÀK^(i®¾$äÆ WÉÚx¥¶;~Kºñk×?‘ðó”7m5S—¯ô8Šê7 øý`§(øµ¢M!‚Û¢à&˜ŒXN«¦„| È]R0cƒXyÛèˆúßùóòuLtŸîþ}²Eê<üä“‡ådKúý´ûèQü{•×bÀupå "-ÞqÑ”AíXòFä\‚Î@®¦l%WÕbø‡p>íÊpÈ†Åí%³îNÆÆw^Á(ýzyOGcNú/±‘òyýÑxí–ùµñéôi\š.¯þ§m›Ê‡Ô·í]ªÒ>1ï$*@O¢´w–fµÆÁ’‘µW‡>ù-¹ÐÛ$–•\'d¯çÉs&G8Öåq’_ÉËÉñzàþÀé;XK
+Àäî~”åœ.Ïµk:¾i®¼”^õ*³êõNµòQ´ \Çªj)¶Q%“GŠë
+]¾®ñÖ;"UÕ°Ç5£S‹
+[’ÑPs÷ý‹jW¤OvØûÆñö6:ô\ÓÓw.ùÑôgþ‡ûÛÖ5³•?ßf¡ýÚßz1bQæï²Àk‰f¡TÇ:ø†µ±à³Èÿ.`L0û6ªÓÆ¹Ñ¯µ1…ŒècmLC}ÿ'mÌ ¥µ±åà|m¬Gù¸J¿††qûííwòƒ¬X78À/~pÉðšÕƒý+–­¸ùQyÙ¬Y³ XªK	ÝŠFÐj¸­>€V åh=˜+€îrøòð´ÃŠaxÚã• k†5pÃå•1Âó5ð; µ0€ñ0~Î„~	Tzþ üòEG”ñõ»û•uåpê¬›V/VV@å:ØÐzXÙñZ=ãË×ò×Vw(”¬<ä	§—¡97áÈì*½¶«è^»økxxÀÛ«@–+ô’S{®òÜò›ævš¿;Ñýpþ
+Xû <!²[xÃîèËþ‘P¦
+endstream
+endobj
+10 0 obj
+<</Filter /FlateDecode
+/Length 323>> stream
+xœ]’Mnƒ0…÷>…—í"Hˆ!µi#±èJ{ b©¥b,ã,¸}Í¤R€Þó|olÆÉ±~ª­	<y÷ƒj ðÎXía®^?ÃÅX&$×F…Eá[õ­cI„›iÐ×¶ØáÀyòWÇà'~÷ ‡3Ü³äÍkðÆ^øÝ×±‰º¹:÷=ØÀSVU\C“^Z÷ÚöÀÄ6µŽë&L›ÈüU|N¸D-h7jÐ0ºVoíØ!MSQñø)óŠÕÿÖ¢Îún=VgX-ÓjV‚XùLªD•¨äU¾E•IR'ì²äí×ôÛfÅ‹-%Q™S—E2Ok	šGê²pTYdhæ„ç´Ÿ-áùãÊ¡Y’yZ94)³(È$|'É$¼ |W.§¢sÌ¿q÷mFêê}Þ	œË<cávmÜàfj~~p¯¨3
+endstream
+endobj
+11 0 obj
+<</Type /Font
+/Subtype /Type0
+/BaseFont /UbuntuMono-Regular
+/Encoding /Identity-H
+/DescendantFonts [12 0 R]
+/ToUnicode 15 0 R>>
+endobj
+12 0 obj
+<</Type /Font
+/FontDescriptor 13 0 R
+/BaseFont /UbuntuMono-Regular
+/Subtype /CIDFontType2
+/CIDToGIDMap /Identity
+/CIDSystemInfo <</Registry (Adobe)
+/Ordering (Identity)
+/Supplement 0>>
+/W [0 127 500]>>
+endobj
+13 0 obj
+<</Type /FontDescriptor
+/FontName /UbuntuMono-Regular
+/Flags 4
+/Ascent 830.0781
+/Descent -169.9219
+/StemV 133.7891
+/CapHeight 619.1406
+/ItalicAngle 0
+/FontBBox [0 -169.9219 500 709.9609]
+/FontFile2 14 0 R>>
+endobj
+14 0 obj
+<</Length1 14976
+/Filter /FlateDecode
+/Length 9904>> stream
+xœÕ{}xEºoU÷ô|Ï¤ç{&“ÉÌd2â$2C2!$F!„³1b$„Ïˆ1›eqYd‘EO–‡“Û=‰ˆ9Ê‰îú¨«^×õˆ—Ëº‹ë]9ìÅ]YTî[Õ=	°Þç9Ïsÿºª»ªººê­·Þß[Õ ŒÒ¡"M_·aùºßl›zÔvÜß±vùç^ÐŒÐL5BÌæµ¬ÃG/BØ	Ï}÷u/ëøá/óAû“P§_µvã_ÕVD ?Ú[W­ZÞ¡}^ñ? í%H¹Pìº²ãì½RéÊû¶¬xnè‹Òü¡¢¹+Ö­\›1ù'„¸	xù²Í}ªw4»¡ÿŸ@ûÛ–­íX÷ÚàÞÏbëàùDhGï¼s×§;—dÌþ
+yÕ¤ýæXç³S÷ÔQâF ¨F’þà=åÑÔQ$Õ#’zºáo;­ÙŽªGË”d'ñ‡ò;séƒc4	÷@RC>©RRÔ=÷órÚ©êŠ!y!­ò T‡ÈÏ·@ª…´Cîg Ò*)‘ö˜Œ×%¿Cî/Cj„d–Û·Ë÷q9‘r¤rý6¹¾
+ÒzHeöÉ÷õrj€Ô	É-·‹Éyx“yAúR—‡ºz¸÷BÚ#ÓÔ(§ù¾G{Ïù&9ßxÃý¬<oòÞnHåB2mµ2G`¼¤œ¯“xOÇl“i¬–xKïmÌGÒ*§ïøSHkà¥ÿÓ”sà~']CïT¢ë‚äµŠ@¾R3¤d]É;¤™® {‚Ê	+§,Y¢~%Èáß@Ãa(ç!ä”èatý=‡~‰FÐ˜Oë³ú\>/Ç—ç‹ø–øŽûsÎ¡ë×‰ŽA»#´Ý?C;äã}N_Ö­í®zýµë¯^Ÿ¸þÊõñë/œ[snù¹ÎsKÏµ[|î®s9<ýÇßÿAÂÿ¯X9¥˜¡²K˜¢‚SªÔ­No0fð&³Åj³;œ®Lw–'Ûëóçrƒy¡iù·…
+‹"Ó‹£±%¥ñ™‰Ye³ËçTTÞ^uÇÜyÕókÔ.¬[TgÃ]ßkº»ùû-‹[ïi»·}ÉÒŽÿ•Ëº€‡hÕŠm«Ó5Ë¿«Y'½=°å¡­öÑìþKLøÿfµT  ËBá¶†¡vób*œ‚2ÜR¾˜Öm]ìû7[Šœ….ðýOA.˜‚…-ó‹ý…[°Úé*ZüBåâBAQ@^õü¶|ì~w±Úµ\s¾Øð\¸E¨Þ¼˜>X¼úã
+m­…‚²@ÌÁÂè¾GÛÚÜ‚nTb.­ªœ¬R˜M¾D¤PÐø¶’A~Ýø6¸ àyµjhÙµ|W‡dfºýþÅî]´Ô(•È€Z‰:ÞÍû¡G]ïwt:ú_DP…ÛZ|¾ùêŽ5¾_W§Ôig #ÃÐ¾]¾ù»ª;»|»t¸ é\¨„–0?R!T.'xÇHG*?íôûÝ¾Ó»€ðÒ æn™6?m–Qð–øZ~Ïíðâ–]0¡]ß®»äér+x²f ÛD&@2æ[&°‹Ük–Þ8òª¥ &±ka[mW`—Jð5´ÌvOÀkÁ(ªÄ•UUxáI-CôJßÝB®-N >På†Tç+[’ ¯w,«Jb†›à[&¸–g¥Ç²P|K!ÈÙI|}»€ÑBAÝÐ"büØb±š¬†Àƒ Y!óÃÅàZ[¾yž‹NÊJß¼$×Æ„E¶z3U¾yãˆë¿ŽÒ5‹kÆHÎ±cŠ/ÑhßH?CÏ¢Ÿ¢M(‰EÇÑôÚÚõ:HE?*ÿ~ŒN*™Íü‰üX=;“}~¿a/*²MðÛÇ©oùÕqû¹î·ÜgÜgÊ‡UÍª?¨£êGÔ¯©¯hº45ÿFßh‚ßou9“¿òï0üÞßeÝe½~ë/æRÆÇ2´IÞÎ7ñL
+Ó\Ó>Ós›ùI²´XZ¾°þÞ–e{Þö{­½ËþÛÿ—Ÿ#gê°ÓÉ5·Q¡ÙÀ/ŒÂc
+²+ÂIyLóXPGtzL¡DEXPð"‡Ãc,-‰FÓ‹c&¿)è7ùç2Ù© ÞŸZÅ5}s|®âÄàžëç™íŠKHƒè.”T“1XÊ€1t0œŸSr¤J¾”XµÜAÜÑ…Ã¢Ak2‹j6‘@¢Ž5™sbzqîŒÒXÔnUrXSÌd5âÁ¨ñDCC"8¡Ð*J­"Ö_W×_Ç¾€[RÃuý=37ožÙÓO$‚Ájv=s…ë-¨	ªˆÀÇÈäÕ0]]V2‘U^X^ÔR”D9.‰Ù¬JU 'sX}ÈÆ7m¸ñÍØÌÛ8ë=÷¶ž_ºô|›|'Þ1RûðÅ¼ø^”Ì¾$mvW,£¼OªuzÈ!œ©2„GS–'×‘âÂ¨Õátç:¢cœ‚>bùl/yÄÁ#¥Fk€GX ÛyZtÅ.^´Å6åè^­´Y4aÁUÛìÀc4QED5<V©Éc‚ÇŠ¨`ãE¼§‡™úqX(ÍŸóï—Ê-¬ŸsåÒ’2ùQ&SeèUI®0à¨Æ¥†ŒÕÚu±ñ£›ðôj¢W+¹’6ÚÞrÒ· OwºŸ¬t?Òf4;ÝÒKêÙJžaÉ„yáÁE·ü	•™°D–’˜% )ÆÒdÐ°‡GñCåg¯T>Uñiùòm‡*>¦yH/|Rñ	®ß‰«wà†”@ÒŽÔøÎT×“õˆ šîë	v/·•€íbazLT(.$c
+ÂÌX˜é‹ˆv,D4i÷‘J»Cb_,§Å ˆx€£Àa{T,†ÅpF…bž¨•Xr‡{ÀÂŽBÔ$f	¡ØœTø¦% §1	ù	¡Ð,fyˆV(bÐ%Ÿi[<…¹Ž„`7Y &8Ç¢s˜’EL¨ˆ-™QiÍÆUä(mÖlÆ‘ÍñµJŠpwaüg=µ]³œÅMkfÅ×6•Ü»¿qg~ ¼­«{S ª%^½­³ì™ç÷<³æ1wÄ.Äjâa«5ZÓU»í¨ýƒwÙ¦!>ÐXN­î²Æž†-ÃÖ‹Ÿ)¦}ãPðúŸÙ³œ¬Ž4ÎèÉ2$ÝÄ< ŒÎó !jÀ;d¡c‡›5ÀM*e¨h)ƒ–°KÍˆA‰¼ ´^4â¤ÇeóH%OzÌEKbh36™“ŒJMXj2	º„À™AÛ	Ñc“cwC½ß$h‚Ëœth3„Ù¯É<juºlÀfÑ’¬à¦›ùÒ¨Wæ°8†«=Z:#/Éuf¹ì}óæ÷W³êÇ¯^ñÇÚ‹‹ÛqíÆ÷{{ß×·Çbíl	žùì³©7^ëV\úV¯(<ÙÛ{²÷ÛOqüÈ‘Ô[GðZ&òw>uŒupœÄ‚‰Z*5HŽ™š'ËsÜP2t…UyÌù¿\heN½éøéÊ{/žg‚)üÞ±¾½©‡?íy÷e¡¥o¿{cŸfÚ§%"O‹
+èÓ*õ·›ÁÔ2ªP¬ÔL$ê<t5{ÓÈÆ{ØSoG–íãü}#©ØuÔùÓ·›úöâÿÕóÎ+éwƒØÝ`ó
+ #ÓåÅBaDPŸuÐy¬„Nm2qF‡/I‡r€árLmë\"kÄ*‡Ý‹U¡¼V)3p(^ZCy¡MqcÍž*Þ-¸ùª¡c‰¾öéºe·©‡táœª¹"Ý ¶pÖºŸ7Ô°{‡•žyÁÚÃ‹22êŸ©ÍÍT+Nõ}3+t«ôå”kW*f®±ëœ@7.NaÞÃàÆ4ìÓQ×@ý‚úô˜‘CF$1Ñô¡œ‹ÏaâE¸„ú'á.^[^œQUÖVVWéê<bR{#ùÊ–pcÓÚú²õz2–Ÿd>aZÀ'ÃX(BÜP¥",ß° ˆˆˆx_iaLNöA~¼÷>yø0±IxøÜýØÚU|–=®¨ÔTzêÕ•”zùª@:ÊTƒ[ÍÃk«ç66Î­nÜV±¤½²|ÉDíÞ`j„íáö‹!‹zHŽzHœ``E9ÉoÌþâââ.*˜"ñ"«ùZ` ¡ækfÂEV6Ö˜,9(Í 3ûØµ7S#Ê¿|M7O€¯ ¹áÑ|ÉNˆ0¨\”Zz¡’¯=-rÜ…$§%V–SiÂI-G²Zµ&LôAä A,¬983Ålþ¿ÉÈª¬z½ió×š±ÙQ±°1Äþ5ÿ¡Žo>4Än±†óƒz*»@ÃÇƒì.EI¡Áfžƒ±Åâdçé13‡ªÀÆ˜yoÂD“êB‚Ú
+$	7;Á¢Ø
+À¢ä˜Fõ\Vˆº2ƒý@ê¬j?,sXIhpcdl~›?¯Ï ág$ÈqÚÄWµõÜþÆ©XSÉÚùùµÅÌükˆ™Õ:sÝ÷o«ÊêKZæë[Ì¥ß‰cUö&Ö×†[›½CZ½­yïgmh	7·Çëc.O~H/á *7ì	*»Yr2ÈÛDH(dC§}T–ÁœÎœv‹ü˜¾S–n•)æƒŠöö
+I¸Œ@ßäE3PÒAÆöÈcûˆÎ	Ö¨¬vBf”˜sªyIÎá!¶ù»´Ïr#ˆh¢±jVZ¥ÉùG•TTN†QZÏc@l,%Ø¡Áª.Ö¹ÖËìŒàW÷à†ÇR—S—)/Q;6²GÙ ÅÖ™D“E2êËiQGdäl!º©­¾:ÎVcãOàíO<!éØãÅ58Žm¸‹Ùums„u\½Âz¬},%ìI	t¼ÆÔEöÈg! ù‡‘$˜™0b~DÌ…›>"Æà6+"ZÉøåT_½ ¯^ê*Å"Èñb)¨¬#*j@{ç@mi±ÇV}f.“˜"¾/7ô(”ô&!/!ÄÌÄ5Î2%‘×ì§Ng&Ü6]1Ò28fäÁ%ž(;”¡œ"Ìi©4n¢8¤±n»°bìýòþ’š¾¶Ø¯ñ^Ó6Õln..^ud}c¿öž}g«ñ»Úà³ù|‡9—oYŠ¿ü G&ÚþóÌµr—9Òyà§Þ`˜ŸU?õåñ¿½p_æNÞ~;vç/iˆ+”ø²Rñ(å—ôù¯Ô¦8ðRì#êy@ßJ‚82LHi ÁŽ‰À5cT–y‘6ñ<1“¢^
+Kˆ…+?ó·ÄÂÁ¶	Š	h!Ø'Æ_ûýçRË	Æ"£`u`õÔãåëþj‚z4ÅHAà3¹Ž¿öÒç;i½´š ^-¹rÐÝho'È™\+?j¶Éû>O‘F-´X>ö7Lß‡öÒ2	½“@> 4šÌ	0|I¨†\z¿¡^›HBC•:Ì*´:µÆbµ;nÀÑ¸2ƒ>0Ìù‡‡“¶[Tš@,l  1KiþÅìf‡X?kñç1!%c®G×Äç¼_v_ñ=õ£SÎÚõø@dm$Òƒ‡žÃ‹þiÿþTòùÔ+©³¸.5†?:‰›ûRÇÙí¾~™=È!Ð¥i¨mDI;Y±l°ÁdÁÄŠcùÓì°hb>ð8].7,W~ 5Ç(E|§MnÌ„ŠˆÌ®ÒÎgS#œm—àó4“`IùfO3(Tü=½8n"†9›¡%ƒ1ñƒtÇ³±Œ¬ÃÊÙ¥ªÛ{gSƒ¿ýè–;²fÜZõØ—©+ÞÆÆ»v*šú7¶ÎŒ5u—ß[ÑX\¸ cMoU¼«6(þúþöÂ¦Ú¸ÑóTßË¯*”ú~Fi‹·ÖT4Ç»m…‹fÇë‹m,ÙÎo=úîCóP2‹ðÂ–öG:ˆYœ¬¥?-µ„H´eÁ]	Q^(‰4<A¼œIPS¥Ã-UÝ ¥¥q‡¤ÁíMO¬­{º®xGoÓö%±™;Ê¶UÖ<{ïúS»˜¾#_7çGv××ìxyÓ¶WûË½¡Ÿä‡Ž|zFÖmÖÍˆ²PJ¥& ”xmÑE–ÊCiÌ€ÅÉbU_³ánÏÜµh2H+ã"¤
+lz5JÓ‹PÆí”ó<œèïûÝ––<ØŠ•´-+yã5wÌ
+<öVÿüòˆpùÀ<¼_ßò¯Û1ó%ÃQ[;B6ö@‡jek #É*Y-N-j¼)p"6âä¤ÿ®ÑiÈ•¥W@2Š™ÀyËiœyãÚ'øl*ÈÔ).=žêJUÉãî¤û#•Ò¸ß=¦ö;ÆœMwËhãÌ{×ÎàÏR™d¤Mƒ×Æ$Bdæ(ÈL­@I?™£æèô“ÞœY€—¨øÉxyt<¢1^tÃbd“Í˜¨‚¬Ò¤‘óéÉ&
+‚D§V(;!M"Ò¡2ƒYIU6€ShNÉ•)&û†öÆÁWî«þÁBWpfd`~ýö%%‘ÖGšËªøáÐñM=/o¯eú5Übõd8ƒ‘Ú§ rG¯Æç®Z†¯yµÒµ«x(¨bIs¸Ø«EØ@š^9P‰
+:^Tc²×!ª@àÒF¶²b¦ \Û†ñ•áá”ZqéÚÆñ­ž©¿–”øxÆ«¥ãÍ—e…øvMTâ„ÿ‚*Jcè’%5ŒV^)`a’Ñ£€Š¦Ç-1 “ž¸|™yòòå!öÃÇ¿ºA69@ŸÒx0:A,(ÓÈ;ÉR©`9ÕÔdlãÃDà ÍJ´WA_§ ¯,´Oæ•>&Ñ­TÇbimÌeñb†ìç²%?÷Úß/NÐ%84Õ„h×}-ØÀ¡9/~.9:u‘¨T©á‘Q´À3ëS‘SÉ‹œ€g“%ÉiˆYˆFL¢žèº†`·Xi&¹q,[à6Ø¼`•*Vªª”¼#Ûòó7^:?`üÃ±JVqòÉ—xÌ2ñ|<—=qm'Ó›úðÚ`êX7fvbûà#×N1UÛSI}5ÐM|èÁ &ä&+h¼ÉzfAÉ"»	iñwbº)zàîÙAA™6ôk´é ŸŠ:Ãƒ9dcæÍ±¨™‡|YUïó+º†{çÎíîZñ|ïšG‡|h¿›¾9rçG¾Iÿæh}ýQæPJŸºŒµøÖJr‘k0O<x½Ù:Poç ë A‚O°àž'¦(Á'$%N.‹ìüñÀY%Ðë î™x3µŸ±Io¦càµÒ’~°žû‚ßoi
+¬?¶>þ—OþäÀOS—K–¹Ÿ¨j&±z¨åR!fUßc)Ùnv/<9P%­„“jY6C,›äÀPädÈ»¹zi±R¸n!{·Ù±àt—ÃÐ9¨lÝÐZ.\öôŸž^VˆÇØÊ«,ýÑ"¿Ñ@[xubÍñÞªªÞã’\»Wç)ž›.y™$b©! ¡¡á4•cê‰3Q ?”ácv‡¥Ô)h~ã~¹lÑsíO”¬³oxëo—Ž?zeÏ:úVjÛ© þè]¼ÄÙAˆ«P„"|NBøXBødâœ¤Šê%ÖZPFeØeSƒøBêE¼€Äº|ãß.ÍåËÔs6Ý¯*Bv}6Bí$S	ýb%é³’‘úu@§Òú¿„._„®ïr|‚hŒx õ‹ëåÀ"AŸ$ÑN~×æçÙsW}¿Ùë½~ÝÄ¾‹üÀÏ”ô•ÂÊZ!Ä;x¬iïTL'›«œÃ‹ÓÀX¨¢b&ð;
+üÎyˆ Xr«‡‚­ ˜Ÿ™
+LÄ±ƒ»P%ƒ‰@.«Y0Mº‡ï*U!Q€°Ên#nµO†F¦wþú'tuXb-óZ~œci[óDk°ìW+ë÷öÌ;¾uMÅr¿¿-i­.ÄîÆuÕ^G$ÜP•çÔïæ]%Kv4\ÑzÜs{ÛÛjÔJìÖêÁ2Iÿö F¸Ý+øÉÙOx`'ˆ“‘ 'r&Ý$80.YñpwS¡ä‰©°ó€ÉNÃI– ”xÃääÅ³%-”f¼ç˜wSÍÒŸ­ŽßÞ;¼r½°)T<ì)_:·¬Ûãæš²Rjó´Úm'º{NTç<ªÕŽŒÔ´•D2IÜt¤kW.¯¡š#Të§¨6ItuòZè!„Ó¸’û¾	Þì¼ePØÕøø©µÕÖ‡æ®KÔn[:«téŽÆªj\5{¿ßsjg>3ðÊƒ³-Î'\ÆPÓööÖ¦|£kÐí¨ì§ñ*ÐØ=Å[ãMTznæ­ÄXA½™·œ‘òÖ(™5OZ’n¤Xü]ÓÿÁO—ÖõxŽÅÿyÃŠ_öÞ>rpkE‹ÍÓ]6wi¹Ÿí>±­6hÃ¿Ïúæq>§zàdÏócz%s»¨¤m MûQà¯h_,[=Ã´¹´VÎ ÃÛzC¶‚2éK&Mæ Î”‰«‰H½ ¥à"²29öS¹H³=î—éÆúþgš^}ÿZ‹väPk¿ßî}fyßx_ù¾Ò¿ºliu>>Óÿrßœ/.•í=àá‡ø¼ºm/¾¹e°p¼aÏÿ3ÑÛ(é"öÒ(ÙlÉ~ÃL+=oìÑQR“hÜŒë4Hºè$‹M:]9Ú9ºœ$ë"‡GNéŒ,‹b!œ¼N[ôµº¢·Šøœí\Ðñ‚aBÐò$*þ"÷ÕëSÑ¯ÖB6ñGõ€!\ÕN…«I¨#±ª¨Ñ¤Ukô†wKb%À¶)™î¡˜Þ*_¾}ï¾Û½…;æ…ëfùpj`˜ÍlîÞÓôÛ÷8|Žx[uÓàÕØ|y?e˜í†5ÎF…hJê,­¸‘AH>½ØaXìÌ\=YlŠŠnÜWXFI›)`ˆ—Â°‚Ý4ª·p™Ôæ‚Ž„þNñ¥ûU!É0”ã´(ß´gR¶þèª¾‘Ùç>iÛ—ð–ìlÜûCOo}Óžµ#¡;¾_\±>àj®Ý¶±j¤¿&À_>~ÝcÝçðôn÷óÁøú‘M›êAVG‰\ì¹Øra¤H÷9]Lš+O&h¶Ó¢&ˆ£‚UréD)Ä³Z¥Ýo‘#æŽ!ó˜´p°3hpf
+ì9–¿²xížæàð²‡K–;ŽqÝY)o©Üpxéµóø’°Ç®»z‘®A7èÙ®hñ¢N”Ì z¦”¥“ŠfvdÌEÏ’é¾ UîhÒÊi´idù1‡xEXpDèN!TŠ®l¢vJ:µ	‘Ãºg’Ì„ÃÈÒ+3y¾ÜÇëëËº<.}QYM¨µw¾§¥¾$^W/)ºöÒ`(™ÒÂ¢{:ð8^Ó_[Û¿€øÔQÖs° Z’ZFÞ½6Q@sÌ!Ï ;"¨(LIªôô$Väëy!$nÌ&ÍÁË¤9ÑSÉTÁTYôìÏ$yî,²/¡h@ò.hr*{fÄ¶&×¤ú™üxÛ–;êa<•ÔùÇ]¦-¬ðjSçÎæ {Oš‡$€\ØA¤¸!#F!Æ¡·S'HÀ20–ˆ:kKP˜	~®°UÎf"6dÚsìOë¿ÑòÐÆ²³/øVhÃÀÀ‚«‡~Ý±jU÷‡ù[‡öUT<òàÊ@*Žä3V"€\æ ¤)1	¾“°€L»ÙéÂÛ‰‰%[Ñ¢š°EOWX—^á´“—Öš*[A–¶œ,í<âË¡oÿZÓ·Ý°¨ì6JKðáû6Xþµ2Œ±$KÌ¥:F0±‹Ù”ŠìLrÎ+y1¿ò‚àçÅLâº¤CyZ•’7ËôÓÁe•v°fQm!«Êf±Râ#ÝD-½Y›ìé¬ÊÔÔw_Ùê`Ëòâ–;òŸª*v•Øõ
+oÏ±#`M°öþÚkmÌpí"§;’H½ã5w™¯~ ñ—ê<ÌÉ2?«cI‘T]XotÄyƒ†„‹¥&s:¨v~*	Æ˜ö´½ØpêWÃþ²¦âü{ÃìA‡óõ3×>`Œm=•N­úêÇ²?[k¹)#$¸		ÙõšóT<FTÀižŒÇÜ$C-–â1ië±Jñ˜…*v	åZcEÏ¡¶öÃ==‡ÛÛõtïÜÔ»{wï¦xÍŸNÔÔœüÓ‰m55Ûpèðøøá#ã¯ìü<<"x¥í¼b¤UAâ$ŽÝ ÍÔKŠÉŠF†.nB±b
+º˜(,Ô$…ÄBËÍ 0äš<»§+¾'þßÖÈ_ý3‚`dÌrpkõŽÔˆâ"ï'xe-0ŽÔNÆí.,iÛZûü	½šú´ði7Ïì ©ó6jÈ™ƒ÷àL€ìþLÎa
+~9eøåýNÿ0}§Ïº½÷ØÊî_Î>æí™¿tÿêÄˆW‚µŽ†y[á3Ñøoí¸×JîÚÚ­m%…n¦E­?!ÉëYró0¤¿Z’X¯!d)Ù°w”`2ˆ-Ð­3 eø•¢HAe:ûþ‡U›k¼U]e[Øm5ZÓOÍÚ qDí ùÜò"ûfA,íñ$y&½ƒ9˜d³ÙÍCßa	‰ù„OéÓ¥é…–wyƒä%GŽ{EE0½­9ŠÖòŒ7–Éï5â3ŠòÙ‰ª¬•Êš­N°vøkžn=›¶>ùPÓøõÏÍöò³4…>ÆMýOö7½u¦óhø€?¼)v{ñôy+{žr˜÷«-FõáÙÅ±ÚUù%Hìªâcˆï–Ï4iìÇIØìce KL{z÷13½›•ÌÔL"Za±ÑF¿Ë"æ–Æp%Äú vsäPplïIu[#µ%µ­ù.ÏÖ¶5Öe'Åº¬Ô™ÁT51¾.ëþ6ÉŸJë¾ûúEß€*d?F‚>F±ÉÔ^ùxÉ(ú¹˜)!ŸPòŽÝ3žÚŠÜ=¼ºÏ]ÍU‹¿Ø·v¨5ˆ3öT†ð¤B©dØÀÕåFÅ¦Ã„Žr¿_ô=‰oID£bcLÚñ a0NÍþýÅ˜t:dàÝ„`ä~‰:ð+½J§'ÈFÅ“nGxaýäkÉqÂ¿@Sþ’Ë{G`~ P—;?Ç)#Å±ÎK_gO´v½Õõ/jÇáÖºý‡ß<xÿ{¯âÿt†€Î3@çmÖw±ëž%5‰Î!6§É§GNpE½Ño®Ó]>Tdn›àDlùÚ(pãs.O—òíðÄ<!º_YPÿÞ·Fi‚^°M@  dNŒO,ùÚC=æGÌ‘c.zUëxEÏßNŸšùQ‹™nYÉU´9Ô£6šËr©ÉÇ`®L'ÄYühf–‹¼þêEzæå&Å$t|Ó	x£$twC5‘„¦ôtËÈ™VAv É7ç·Ý|„…+3N7øŽçéUšf2'•º€tÐËf¼˜ÌÇÈ)vÇ63²ª@^„Í`Éæåa¥ÑfÈöXróúsyKÈê5{l¼ò€Ö“_ìî÷ÚÂÑXAa¼?QÇžhxj¸ó}ñõ‰™ËïZÿê±gšVüå««›ª=½CC½=ýWñçDþÊ`]ß€uu’ïhÒ{¸ÄÒí.W„à0/„)ÍÔÒ•V`Ã–vØ)#ßÍ(Ues;&RÇNatq,õÆK÷V½b=¯.XŸŸWíwôýèïøµÔ®KÕ\ÝÖŸß¹zEag¬dyqÆ«…ØH€ñ}h%³‘l)´µÙ‰Xù#ä¼‰ÿëgT˜l 2&&»„É9!˜øQ³Éën¡W+¹‚äŒ:œääÝ°†ºŒð„,ã ð§¼j/’åœ*§—I‘-™V­IÄ|b
+ÇaMb€Céši±Š€À¼Úló\O×úHÏ›U/YãÕ…þ„«8&T=Ûhhï­µ¥^ß©5´,?ƒÿãJã©·ÞnkéÞSÿ=u9¥ÿ°qs}ÐFmÙ«]<1£"yž‰F«ä+*úù”È#êDšúM²õ/): u[„x*¿m_x`Þ£w§
+™ã].šÉh×7¾¶äDsb°ÿ_Þûî½äLàøò5Ü~T žœð›@Où#>Bv#è')y§ÉVœ[Ia©;Xk·—~ÿI¿FqçÑàÄš ÍÌ<ÀžØ$P?$ª­	É„ÓmYpèeØF¾„˜”~‚ù¤Äš¨w¤1P0{l]òÜHóüÆ’’ÆÍÇŸkx×ˆð'Û¼±J?^P×ÓÿÈ¢•©ÏvþÈîÚ1úóŠúíù=q­·b†aœL0ô»"ÇÔwE`œH’?w‹“‡ÒŸÞ/ÚÓ¼(öK}²Cxa’y¡8-è¢bðÂM*(/¼´yJx‘§0ð‚DÑŽðÂCÏ:á…ƒFT3JÉ—% ºéq/ãàÜ(+Œ$odÂxßMXèåMp1{Þ­_Ý;0œ¹¢þ˜]êEoeÌ¿-{F…?u¢nCC>9ó®¸~ž}½ŽT(¸Ñ„’*ê£AÅÈg9äók­9¥µrEúsjŽCéËGÀëc©$i£%ùSÒ¥$(ÌÉ½å^1»söìNìItÎšÕ‰Ýô–ßZUuó?à¾‘ÿß	F<Jÿ' é „åÿÃÂòüÂr^I÷êY„(=*å<†ówržAFôïrž…üe9¯@yX!ç9äÄ·Éy%ÊÅUrþMt?^qgÓ÷|]Ë7¬Þ¼¼Ë·¢ûþwßß³nù²Õ+V/ïºõQqÑôéÓ¡²P®,$•èÔÖ¡-hDï+Ñ*´¬^è.†Ÿžv û¡Åýðtäïƒº:hÓVÀGó¤~9<ïkÔl‚|ä7@~#ô·îw£NZ¿®>TMûÛxÓÛËh»bèuú-­ÑÖÝ¨Z¬„šû€Š¨J€V¥ž¾ûß-ï4Sªz`LòÜ#¡™·Œ—~·ð–w›`&«á]ßä˜> ¡ƒÖ¬¤3 }w@½Ä…NàèÔü§fü=´ú\m7ÀÂÍù7½Ý÷"„þÅf»{
+endstream
+endobj
+15 0 obj
+<</Filter /FlateDecode
+/Length 336>> stream
+xœ]’M‚0†ïüŠÝƒ¡ˆšÅ5á°YÜ€íà’,¥)xàßo™AMö ÍóvÞÎL§q^Û,þô.a`uc‡¾»yì×ÆFB2Óèa&üë¶rQÌåØÐ¶î¢ÝŽ±ø+ìöƒÙboº¼Dñ‡7à{e‹ï¼\Þœû…ìÀx”eÌ@Nz«Ü{Õ‹Ñ¶,LØo†q<Ïˆóè€IdAÕèÎ@ï*¾²Wˆvœs‘±°l’,kþí¯Éu©õOå§hµÁèÕ*CÊ‰¶D¯D¤„‰$Ñ	)%Ús¤õ)ä2Å
+æ\Û{æg¡
+Mœ*äå$nH<!	Ê"sEBâ
+%Hœ}tj¢Tw£>P¤3u•Ð™Š2(2$Ô\B‰RŠLÅÜõ1]ñôóÓ7ïÃèð½àÌ¦i5OÊunrMß¸ì­Ä
+endstream
+endobj
+16 0 obj
+<</Filter /FlateDecode
+/Length 14124>> stream
+xœí}éŽ,·ræÿ~Š~)'—ä´ú·Gæ„±ƒ#ö¼?0\#"ƒùewUW	WÀ±Œ«<¥8A2vƒAó¾•þ‡)ÿ³çýý?ßþë­þ’¼i?ü÷ÿ~û_ïÿÙ~2ÛnnvÞÝLqþ·ÿz3·mÛlÃ$>.ó^ÿùŸÿúÞ?þû?Þþé_·÷ÿø„oŽñïoÿVþ9ÚØ÷òÿÉÄ÷=n·Ýe1ðvKs´ñÙ¡?Úš÷`·>t¸íïf·ï¶/çÞ¿õsó© ‹·ÍÅw·ÝLòé=ÝŒÙò»Íýß¼åþ»MÌlý/ÙX‘Žÿñf­ëŸßÊ§¿í&¥þgk÷[2…ãï[n)e#°0G3°”g7þä`+ùFßnŒ5p˜Ýáæ8fßûGýûc.fš¦jö>W7¾þh\Ùû‚æ’ûŸ9&ŠA.1J''M$ÈiNNüñö
+_
+Kã
+g£Í¾p­0SÿÔØj*[¿3ñ‘‰¿a=lÜÙÜ`˜‰Ûà˜	I²Ì„xà™	A1Í„ýÀ5|g[ÿè|ëß‚qý¦Ö@Â$åqˆîs*ƒ/s¢ãe“}u]ßèÛÙç¶]±ÏmaaŸÛâ‘}nKƒ}ý«±¯2ûúŸa&ŠA91ÊÔ†ÙGÓœ|yP¿³ô›¥h¤wû4¡ÖNj·ƒ5ùÀ>g’bŸ3ñÀ>gBg_ÿèìëß‚}ý¦Ö@Â$åqˆîs*ƒ/s¢ó–ØW×õ¾Ã‘}ÞEÅ>ïÒÂ>ïò‘}Þoƒ}ý«±¯2ûúŸÇ4'Š±1J_+M$ÈiN¾<¨‘ßYúÍÒß
+K}ô{á_p»{¯Âæ;_O~g}ýñ÷·úµ³eîáý÷33–7îæC[Íûï¾ýó¶¹ð/ï¿ÿ_(DÞZØR %)Þ_ ˜#€Ûo¶Q• âÀÛ2«²[  ï@¾%·gáÇðËï…eQ×íÊÿÕåWénô8ù½Ð£Â4Ù<¥C°sˆ|œC¿¼a =Iëni/:Åvž¤eTÆÌ©ÛSõK™M Æ\·=¦fpëž£mYÚ_jÿ\,¢Ä›™§°9Å
+³•™`7oE
+÷Ã)íý­2º2Û	]BË&pðë êVã!’Øo~rˆt«æ
+Š1Ø‹B§t?§êö4;!næ—WItL“
+Û¹D3€=—hðJq«¼í>
+i•·]üý_WióÅ\1À]| V/T¨còýŒ¨¼,²ÀSÐ*3m¯Ñ¬âèŒ\„_Å±L3¢Š£5y!ƒ”–`¢“üQT'%)¥SM¶D!›²â)ÜŠÒL‡ln.'!û/
+ t‘†Ìfn±:8KSbÔ2†¿Àalat"¶)2)BBœŠ§"$ÄÁ©	q°+BBü›Š{¦˜Àëì…)¶w,¸@†Ðú>	% Ì9¥Ä(áŒTC<§•À ˆ%pØs¥^æy§å1%Èò¦G/w›ži8xZÚ§åÀäœ¦CÃŸÛc;7G:·b¦?ž›†Ðº=í‡ÀñÓ¹Áô Â :€!reÚe²Ÿ0"Æ VvÄ
+ÒƒXAÚa+†vÄÒƒÈLÚA/´%6%jYd•‰ZŒCoM&µ,0:µ,ŒO&µ,
+qˆZök1Š±%H	7×VtwRCâ$‰¥eºÚë$±ÌYP|`‰ÖÐjKÌ%Æ¬¶d;°d«-ÙŽ,	Ú–Èÿè3bò%?š9ðÃš—I¯G~Ž¤—!´lNéõîkrSMÙW÷ƒ<	´!d-7sGÈZnªŠ8+É¥å†ä’‹ä×£°€ä×#óJòËÈ/AHá¹/±òaFÅ”rìç)†°ñe2œ3 (É0CèÌÎ”a‚ØõJ¦†£ÌÿlÄCzb·íë›@ž„v«0BRP4Çû@W	nÑd	Es<½WœÑC,xDs¼Z·˜áÍ1ÍAÍÁÕr4G 8šÃX(šƒD3&Þš	ƒ¬1Ö»Iî-ÙoEÃ*©Bçì-‡í %z¶.ÝÌNäA¼+a‚	²f|ºíÍ°3ùz•±ÆAšD@€ˆW@èã° ¡yÓ-ˆÀ°Ÿ[á1bö¯[ž² ˜œÓ‚ˆ…ütnAŽŸÏ-ÈBŒÅ‚ˆ™þznA`Að(Ó‚ˆ™šs" t¨7,…,–² b½¯S‹l.©
+C U±È²“ªXdÆ†ªXd7HUì­{‚³åI@U!÷P^ê@U,ò
+¤*¹R‹Ì9©
+ãÐ‰‘©*¼Zšªqªh¶­ªWËªÂ ? U3!g‹I2­@²xÒál1MÈÙ
+,Z£¦³ÅT!g+f«“6ÓÙ^,h:Û‹v×#z¬zfO·|¤ËíPÙ°ŒièÜ×´C}B‡ìd‡ÇO§vˆ1ü ìœ	†x(Ak}øzÚ…'¡-ÕÜ¶2„¶TsÛŠY2·­˜sÛ*ª·#í²K¦]ÄŒ‹	jiNLÐZ««	JÕh3±^'ßaûH¾É7A@ùfçòÍ|ÃY|3ÄcòÌä›&å›  |C–|Cb|3A‘|krä›ÿ#’o†@òÍS@òÍÄZN/«‹5î‚ZÍÅÆ®$¸¹X#Zv«ÕÅ†˜À7ŽBª}yõ±{LTi>vwæ‚,ÍÇú$™÷B½È‚‘Þ„öÑ¤÷ŒãG ÷z”{u2†–â«¢p·NÓ‘Ç!ÓIA¦…qè„íŒ¯âä8¡Å×9Š¯#òI_3ŽŸW½oñ5dÅ×p-_ÃµP|Í£äåOÑ°«ò·ø:"ÿÊñ5–QŠ¯õj>qîhÓü;ÁÑ‡$úbŠ>„r‰ÿû”K‚Ðö†ä’!@™Ÿ€øÈe‚R7å’!ôÎpÊeB¼$¹LHêH.”º)—<Jr	éAr	éAr	éÁr		Âr	)Âû>HÚ÷A’ð¾/!«Âû>ÑXhßéÆû>ÑÑ¾SŽö}˜,´ïÃÄ¥}Ÿ¦Üg”>¨ô‚”CL¥‡CéñŸJOèø\@èr„©ôNV]Ï9•>#~“Òó((ÙgJJÏ8,PúŒ$†”>#="¥ÏHHé32¬ôê)=œ++}†Ò=•ž‘èÔ)=ž
+)=‡”Ê +=$-+=¤-+=¯H›Rz(m¬ôP¨ë$SOÍ±¼™o®íÏ‹žnô·½mÐ \Þ¢9 ?ùÐ»Æó}î0Äë½“ó†ÝŠ¤Ón2„d¦Ý§EZb‡_0Ü¹Óp»ýzž'òðx!Ó4‹…€Co½8ôó ûÌøišÅjÁ>Aà ¦ã˜¦¯–L3ƒÀCï,Ó4c¢MÓŒYC¦Y¬zcY'Ó,° Cï,Ó4cY#Ó,Èÿ²Lƒ+"lû´ Š P6# Óÿòó3<”iU¤ ÂË ÁÀñ3° š«á™ž.6ÂXÈV² pdAx- ¸gÕ‹É_ŒB„q,'ÚÓ‚ðr_§T¢õ !£LzÀ8¤/úÁd¿¬	yAÒ‚ÐY]Ò&Å@2×¤	úÉ©	ÙYÒÆ¡ï	M=àÕ‚ÌžéfÚª<Sp™¯…ô ®…õ .†=)ÆBž.‡<)d{RÑ;ò¤x*äI!UØ“2í²É“b²'e½±˜›œ079”››±"½Éœ›œ‹EÏMÎÅ@s“#°h³™ü-›ƒÁz¡Ù,õÙ$ˆå>õ4›ŒP
+ˆÓJ1†¾’=mc ‰¡hN6GyèÂs1_¿CÅ“Ðæ›Ì&/DCL³É8´QœfS/u5›*0ÉÉlÂyÙ„âEf²Í&”6›7 x i6!ÑØlòŠ_¦’ÞØT’!J
+@%Ä©JŠ1€J
+@%PI1ÊC*éûºJò$JŠ… •8€J.K]T’!Œ¾m4TRà µy˜)S%ñ(S%ñZH%ñbH%Å8dª$^ÎTI¼RÉ‹qf$s± É\(ÝŒd°4S$ƒ•†"¢W4#™‹f$sAÿÉˆE¿ÎTY²˜ ¼I@€c†€¦Ê¢d˜*‹&™*cƒiª,Œ/¦©²È;k%;b•'»×Ü¾î¦WºÜmîÈTY©‚l%S—J¦Ê¢L•&Æjª,òêdªB«-™*‹‚6U‚n`ã©©‚òÁ¦
+Ò„Mƒ,gÅÓTAº±©b,zwG¦
+ª›*¨5lª0ýÉTaú“©ÂôŸ›.1=ÐÜta™¤M×éæ¦K€è¦¹˜Éíh±4]ò~sÛÑdé3™­öÙÂ’`·ýòÁfi‰³EµS>­%4á¶¥ƒÕb/`–^yÖí£CØŸã»õŸ³Ÿ§‡~£ÖEÝqÔV=Gm5ÀÔtÔ¶²·Ö€Ìå<»ŽúJê:ê‹ÚÊ®£~³µõ˜ÃoîÐtÔ×†€4Éñ'× ýXÔ7úžÑî™6‡±Ô{g2»¯ÑD{×¶ºÛ;¶•ÙÞâ×Ü~`’4L6k’–{®†Ì–ŒÄŸÚå}gîß‰¹­,Ç
+öÉÈ:µÉIžÚ&G“š’™M}bî_ƒŸí[2´ýÀthˆÖ<ñc9ø5ô†ØZ—8ÙêÌvd«3æÈVgìÂÖŽÙêŒlí_­ý[°µÿ@3hh5b,Òc$[i¾Ì­‡uö;«ÿŽ¬þPƒ}	¿ÈÿL¶¸ˆ£1.&âÈVWvMš­®„—¶:k•ûWgkÿlí?0¢5Eü˜óüšóŒÄÖºÄoôlõesx`«7ya«·Û‘­¾M·®ÄUÙ®™#[û,€QPŒE‚<ç3Ùr_–ò°gõß‘Õ¿Ý(‘ÍkO¶Þeú³P†ÂñŸïI é}/ëœï|RN‡‡ˆ”8òÍ1º—Ï1ÃcsL/§cù9Ç»j‚•ŽOª‚ä1¨›²Þdú|³õÒ•Gìn{Ë{¡†6¸~v\¶ÑÜ¶Ú1Š!t5fL#aA£¨}¹MûíÐ”yÉ4æb{Z>	væØ¶^›ÈºÝðG*vÿ(TîIÔ&¢Záœe‡êåè¥ì„l8´¨Ö…ìµÙ¶;ô¨ÖÇ3Þ"éó¿$>%³­=q¦›Lñ±·CçEzê«QöW^¤'Øž5c-=!ö¤lÁl£ë93<)x±ÉõŒÙƒmš™œE¾Â->p–eSºE'9¢“»6—l%GtuÍe~hx­ÓéÅÉ»CÇkÒ+1pq¨Žhoj"9²à(n;š^ëR¼˜MrD×–8W¨œÆŸ~B\ãFÃZÄ§àÆÕC	@‹ÖTØ´™” ã˜Jð`÷j^èÚW“žÁÖÐ¤g±èÔ3^ªÆQÕ &¦y”åPÉõ¼4ãÐ¹Óª5-qt=H²!¹–Ðª5)Í$×:Ý…ntý
+	Í°ùã”ÐŒºN	Í°Wì”P†Ð$Ÿšë0ÉËð÷±oJPÏÍ2jHÛ$´^'ˆEþª„z—=ùsÝ=ó(šÓP3ŽEþ†¡Æ8†¡f‹øCÍ_â™a¨³{½ø™íCÉ Ëuø!€É"¢CMÓ)‚ËÏÀJ.S¹WL{öè«v’§%ƒ@K)Ö‹L¥ÙJKŒ…¬%¦=™KA{d//ªCë«º!gÙ#‡|I}%ª„íO€è@¾eÄ_n£nýOÌõ…Úea“nÒ.Ycj#Yâô©]„´‹At CÚ¥±Ü­]Ö?C»,vS»,ô¤];‚©][ñ©]»‚©]k—ÅÞ`j—…î€´ËþþÀÁç)HbÒO’X‚Xâ’X‡4˜%O…$Ö!kÂÒ„"irÐ’49è¾Hšœ2çwkËW±Ä:è›Hb!aYbÝ_awÔ”em‡™£)kŒÊFB²¶û/š¾}B ÌÓ€° ÑÂ:CàºÎø‚$3¾ ìŒ‚/°Œ0x¡ë.›°˜Êif¯½Óƒ3g!°è¸b&-0q)k!@^¨u¬dÍ ¨ŒjFBšò5#nÏÐŒ€½²fÔé•5C/æD3ê'ÊšP÷SÖŒej#š‘°f0¨õPeÍ¯k'Êr ± ™&å aÊôÄ”igÉ8O™NÈpdÁXîêß&–û…Nà½$ìfô’‰åè…AÎdº?#A$YÞç›‘¦E	ùŽ,4aObátmî“ï4ò‚¼ÓdN§&žKßi&èwh§	eÖù½W‹bÒ÷jQÌf·‡›m·–Ó_áš2êëÌjß• 5†Oy°k{°>æñð}n6ð56/|?WcœÙqËÿIvÜHŸÈ.h':I"° L‚ ÑrZ6ü„Y¶‹¹LË¶¬ùn)1û—Ïõð{œ?ðìŠÂç1Š]’¹£d€AÖ°qÔ\€Ì¢YÏlGÕ€ ÑF€ø»ÃsÝQ7 ¦²<9
+dy–jVàQé€ ÑX¦ËÁ¢âEÛèY=€×Lå‹ö³~@`Ñg¸Ó_\,zO½×3¦®{ŽK€¼®RÁFê¬E…l[D=›É¶EÔ÷™m[„ý¼É¶éqî¶'Ñ<a·ÃÓ€»òB¯“POFæì}Iœa³_€gjÚÇ^'¡Fyìu0²J°S'{Ø”âée »)…'dEÃP” ¯$·¡¶'$H‚T\@ R1Î"%C–å¬d’ Yb“!HMA gi¸Ö;¯h
+Òå&“–³4\ë¢‰{wQæfß{åîîHsóÇÓX$ÍÍŸ ya¤äåŠ–pzDJ#%YÌãŒ”ˆfßŒ”ˆ6~$JËˆ”Ä²9‘’Xª±d5˜‘ƒX½­ž‘’˜‹æòŒ”Èr<"¥‹éÎHéËŒ”ˆžîŒ”Ä@:Þš‘¦.EJÓ¶§Ùˆ¬Œî·ä¿º*®¿”1j,¤2öE&«4…ÖÞp­†©‰ÓŽ.7ÃÔôcG×¡›aÚ[LYš¶åÆ³Œ‘w‡È•~L†ëN‰²d2ˆn…ˆr–ndˆh‹Âd€1"ŒÖ«ílúÑ¶¬é¦;Ü Øú<1©¤¡3},S	Ý|gbâˆ˜		Î…‰	çÂÄ„sab&t¼e!më‡îÏ·,ä,f)(ßúAÀ’š„4­#Rûš‡ldi5¼•ÂVkÙŽÈÄš—TeèGdq?#c|%ãôœ¾Ê˜ 9Ët·‹N)X–œÂ1²¼?dL€,žrÈžÉ^É˜À¢é=e¯hÊ&.É˜¸ƒdŒAI2veÊ˜X’±ÊM Ú¯SâW+ÅE§]·PïîmJt–’MW,Šq\Ù ñN¶xnwÍÅGÌÅÁõŽ=<]:”Z/´zÓ¯èmïÎïv¿Îûú¦Þ3l[qEÏ8ÝUÀè*àÍ.º
+xgW}‹³«À¾%ÑU`/‚.»
+ìµ=Æ¡«À^f%»
+ìe^>·Â}¬úÃh,0>ËÂ¾½1\6}@ÂTãÝ:æÌµwi>.ûLÓuyoóã«®~~WÚ•÷ˆ0OŒÅžšŒf>=p‡õ;“ÿŽLþíî­¬¼½z¶£­·f÷Ã;½¡õµ·Eë’…N2½s£{:šõÅ¾»fÑ©÷ñZ#t’éw?Ü:ÉòÁŽöSp¦!:…p1ÓØsà5¾â»ûk„¡’Öug‘Óh¥N»Ÿ˜9#¾Â»oÞºÐäO}QÈÏè;xŸLþðjñTYrâTä³—ÑZfD˜´L†Ð³ïQrWŒg™—#ågÞ"BdT0N„`-³–F¼˜ßâ Z'.â§….Oî]i/|ñR¹ú[+ZªEW¸x©ö‹L­Åù/_*¬Çæ¥:Ìø¹T?Y€<Èx÷zUÆe«L.[…ÔØ¡/#jèÚ»©Q«—_MXªÈÔ(ËÔÀXˆŒåAjÄµrèéÔ€ueLX)ÇÔÀXˆIÉ† Éã<‡@Ì]%¾b1kñûÓ	–Ñ)	V•1Á2:Ôa‚]€L‚e•ë¿—`­6íÅVK\8†+¹ˆ`DÇó“`¸ªŒ&Ê´îª¦‹y½„Y·AÏ4	Æ šD0‡êP˜`rWi£˜©y¹²=ÉÔðû×­õõ¢l4ýeëÛ‡ësU¿÷Rƒyyô%§†K…¯dóR|¹\L#¼~©ùc®fTíÅKe,?<¶Ôüz®º=ÜIK h©ä±¥ºíõ\uÕÝðRí”ˆv|ÓÇdÜÙõ±°§SÃ¡÷Ý˜¢/935Ä=¶T_Ïxø`#/>AÉKÝQ3¾†I±ÊòüçÝÛíËcñ²ß’îÃ*Áô+„w/5ü²Á¯qÁ¥¦eƒ±Üu;[LÃê¥®Go»Éµíå–ÞÿßíTf|ÎÃŽb8d?ïÝ}(³[{8”ÙËJùPfoN¶_kæ¡L¨O˜4iB}ÃCÊëû™šò©L°AÌrüÉ5À0Võ¾s?Þ˜8Zßû:SòöCž‹±š§j\›«_uåûø.d£U·˜(ŽÇšÄ¥	M–äy€49ôÀ¡Ûwöþ½Øûüã¶½ÒÇËÃ!«²»+Ô°òpHoœwon[{!í›w?+^Ð!Õ¾ïãq”#*Fk¼šÒ‡{ÜzSØÑrµ6aË3M³LÅŸ8Íçx¢y@%ÅÀ÷bé€
+1vz­4lX¹{ÛK¥ñ(>ö*fx$·ï¶1ëv”Ÿt6¼R·Ü~61#jÑBÄ„‰˜b“Gù3¢f2DL†¸+€å•®-¿žMLxhGÄÌèˆˆ™k¾ÄsxÙñíhäG°Ð¥åÜ½+}á¡a?d©8´Ó¢KK…çz¤!¸u©ˆÀ²¸»´º+¼ë][w=¦|h·8M£›(ašÂnMLS}:xBSØÐ‰i
+!÷=Ž6î±‚A’úâ|¿dð2²óé $;lÃd‡|˜ìð0“É3™ì°©“¶¢¨G¤±„4º?`,Ñî;âb}dhé:t7ÿ÷øÆ›ñÏÏ€óú<ô„ÿ°ó¶Îaþ3ÈƒÔxÝÁ+Û‚05`«¦lfÃÔ€}hX4ÈÝ{ÝÁ+Á‡,£Cy&˜>2=!XF—¬˜`Š2™ŒjØ|ð@‹m˜æ#+Q>1ðœ˜Í¤çÒÍl”²'7šÇÀ3í=¥Ñ<FÓí^)ª§Ñ!ö+÷¿Ôœ}¯‚ÇRöœ{¼˜©²þaó½
+“¬ìC{¼ š~ñ¹lØÛÃµg-YÖl]pí™©\_òêß-S?ÕÉÁíÇ2êP¤ÚÔ0Vd[êË6"¥\ªy¤oÊV}¦tòLó|+ŸN¤tr¼HéäâË¨³	‡ŒN6ñ8ÑúÃHêôÏº¶oo7_ñaLãŸ9˜Ûèe-šÑt]{P¨.¤•Õ—õõïJ¾±òþf¢!â‰±…Ç„˜	sÎÌ­2wßYý÷eõó³xÁ ƒ‹æõ«Ð>®Q~-ìûxþ•Ä‡âLÂvx'iˆ|;&àÄ†ø9nœ–ªß?%€¨5õ0ñö±1d½Ô=ô„¥NÀ}Òñ,Ýã=»B0ªd^;¢‚*™Ê©†hTÉüó›bÐb99–K`‚X¢8¹—àqM¥|žàûØ¹ò;N¼°¤ª|Y¤³÷7†Ô¾xŒ8öOaUÈ’-¼ÙóŽ4Âý¾Éoè‡lÕ«"z_rìÑ'|.&nã¦|r&n©Çžðå›ØN[ôu¡Ÿf|YF¿?IXÌÏÏ&W¬§JÉPv«øøxÊçwôž „œ½•ãxd±õMÃãõ%_Ñû[8\/Ù~ÒÅÐ×â(q¯n1KÞ«Œy…hÎ_h[±B7oå›FÚ¼Å¸Ý·mqï§W¶—Ù?¾È‚ì_Foý{0kÎsX³æ÷Û?~¨Ù?ø²Í°ðNÙ?<Æ´íÆ1íŸ~_çö–ýƒ‡%dÿà“Gdÿ´`(û§‡xÌþ–×Ù?H-²˜ZÓþéÇŽ¶­ð2÷ 9ªý«w?_IŽiAñZ¦Õ·ßVÊ8a~³²Òô,þ ZYíò€ÓÑÌž‰Zq2·b¿¥¶hB¿-‹qdssY¾šµøƒn{–TÕ8RÙ¥Å$©úB‡ ‘GÀ—É%<z¾(¦ñŒ X<0„¼~Gj¸üjù…‹a¦c`è.°L×€_´j–Ý˜³ì«ªi·æèÆÝÍ¶W­ÁXšq7‡Û£–jÝ·ÃíÑK±Þq;Ü]4¸ßª9Ë+QGó[U“®Ùßª;B"µ·³ý•´4ëz|‡mY‘ïy„$Õ8ßa{¥Ã7­XõuÖ=†÷f)Ý€à)€Ï×)€Ïú)p1PÓ²ä/Né›–µ{cxEMË²¹"]Õ2w|TL›À¦e‡GÅXµì@}Ò”ÌÓÖ¸)™¹|T¬)™ùÂ£bB˜ü{“¾×W=î/\À7Åª÷·_ å›çCQÈªê¹7bmk›§CQÈªê¹7ZÞ7{f$ÕLÁñU2ZÖ@)ÊJ–Ø²FAáð*ÙŠ×0¨Ø@lqPs–z ûB²,«v^Öxë¨KZ.ÿþ•ˆëh–‰ASËÑ(qK[ìäòlƒ˜ÑoKd2±‡bEÊ…¥Zí›ÖmÁbc"D»°ä¬~2qÁâ’~2ñ•>±ÓÕ?'>¾>Ç>–<±ƒ%OìÃ`Éû0<ù0Øœ}^ù0L:òa°¶Š}¤.ù0ú0>N…}˜¦ÿÝ>Ìå'ø0ø²û0Hyöa‡«Ó‡öaù0y¥ƒbÏ>
+,û0Ø¶„}TAöaz }¡y¥Ãt#†é6}4(Í?õï‘ÄRóaG}>MØâå„6‰½ cyÄ±7Oyt?Ú±WOyt?‹cožÒ\){òN»ŸÅ±û¥«Ï‚e_ºú,Ž}_ºú,XÂÒÕç•Ž– ²c‡•¡ìØ:vXTËŽÕ²c‡EµìØñ@äØá“ ìØñŠÈ±cÒ‘c‡Õ»ìØ!uÉ±Ãâ]vì;œ
+;öŸ}Â´?Á±ÃW_Ù±CÊ³cg,Ð±vì9vÑ‰@vË²¤ªÈ-ó@ÈtË¹eŒ…Ü2ÆR]î~(ó^Õa¨¢É_ÝeËÃbÂUwÙò°,mÚÔVÙò°Kó…î`¿S[=™=Ø¯³ý\;¼`WšÚ ë=ÉÔÕÖénŒÛÒCæÓ*Èæœ_@Õùo2çðZ6ç²ä¿Éœë§VOÌ9ž™s®´×¹x2ç™s<]2ç™sy¥$ÁFg,I°Þž¹|2¹œ¡e.3ÈˆËºéÚÝRý•×cY’²,IðY–¤„K’~yôD’ð\H’²@$ÀÙr`€±P`þ
+óˆËáI¨á=jx?ƒ…^U`¡†÷3X¨õÍŠ{…ºÞ3x‚PÃ{,Ô¢CB¡í#¡&£w$ÔL’³Z{|÷¬˜åØÙðì¼ÓÃÕb¡~á+´ÌAîã§©6%¿BK‹’Ä
+,hï$@´K˜‹[ ’4	,Z5¦4]ÌeJ“h±¢CšˆÞ^Miº˜î”&ÜŽqJÓÒjq•¦eAw+²ÙËÖd¨ÀÝÛž)±øÙ\2Ãb¦ËÎhlž0whó„E’6Oä26Os™›'ÌcÚ<‰EkeŸ›'1Êi^,znž°’Ñæébºsót1ÐÜ<a©›§‹%ÏÍÓÅ’çæ	÷*¥Í^2mžˆJÐæ	/™6OXÝk°•~a™«)¾tÔTMþä\?» ')¾–µÄÔm)¾|lÐªª)¾|4`Jþ[Š/Ø²¢šâS”+6¶ßñ‘òe.!«GÊ—E¯)_Æ‰Y?R®=UJ^?R¾,(oú‘r-—)ïË#åJ\r½Ît|¤\O7oûx.öô}ðg{oê;»øòÞ5ÍdïÍ (ó)Ü.®yzoŒ…¼7l¶ËÞ›A ÷ÆXÈ{ó\ ÷ÆÓ%ï©KÞÛ¡‡®É{ól¡÷ÖºÛ{×»_÷Þ=QÍÞ6Tfïå½·S­wO¼7ƒèd0yo(ì½¡°÷†ÍÙ{CIaïÍ yo¦îí÷oÖ»²¢µ‡ìG¯n³=ðèyo¶£y^Ýf{à{u[$,ýX>­TpËÓ8Mª´X“dÜ
+³¤Š=°gÙÍ‚Û…$G›cì9Íª˜{–“ƒYp{eÜ
+*Î‚[YÒ7³à–Aô¾œ
+nÅ¢—;£àÜ
+É>çã~µ Yp+@ÎŽBZ¬»Ûƒí’‹5šo±ŠîÆ®¢y®4«.ªÑ|‹U Â·xÞérrã ½—ŒÝ‹’äâòÇþŠ^t‹çÛu²„ü%ž¯÷ð¢[<_/	,KÈûSßX_K<AûvZ_{} …òGËòB¿ÀÍîuF‘üB€Áù…€CÉé¸ñþÏÈ/ÀÞüì
+3Ø/¾Qœkç8¯ˆâÄß	´¯=MG¦ónD±h@ÁÇ¢j‹­ÎXÒ•ãÄðWD2™$–XøòKlDÆ„%6"ÇÂ‹"‰ÕÓ½[JbxB&§3éb1¨nD,j&,IlDVš%–$6"#Í‘‘f‰Õ`œìl"²Ô¼³‰…¥ÎÐô‘Ü3ÈÒ´cÊ}†¦ä¾·ÁrŸÑÖ•å>C¯A2™¡½'™Ì_µ±õåíyîu·öÜghcIî	äôÊ\“{L{’{HX’ûw®$÷Œä,€orŸWKZÜ»´stEô]uAŸ¯èR7o7ŸÑ}Ð]{FW4BwíÙÜÚ-¼ýñãüõ[ùží‰Ú1ÎöEMxÓa¨G¤9Ÿ©£Ò˜rý¥¯¦‚Ç±ÊooY"àÖŸˆ¥Ø¦kO¶Þçˆ'•ræIç­MÚŽ¯Þ½‹®èý&Ñ@Ãtä±ˆØs>“IAvE¯«y¸éýw†ÿ}þÂ6øu'7òKñÑŸA––¯³>ƒ¬­2G'|²´u­ðD' ¨­£˜®h6Ã¡nøD7‡œíðˆžK±üílG€èŽ˜µ_buT‚tÚn¡_! K3D×·ÑXªhÕ«˜‹Ðlj§2˜Eµ¡[è*áS¶'£0qÃ¾õMðÅTöØ“£Ë\^ñØ€óómûƒ–ìÑö”A`×dï\`™mO-*³í©À²<J0Úž
+,è­ˆe.÷¶uµeÞ£¡µVåi,š<[«2ˆ­zkÕ³µªX¬î‹=[«
+’icPÛž¦=_ñ†ÔÎ¥µ=­Qº Ñj\ÛžÖ(]LW«WmßØŒ$¨:ŒöŒ‹µ.(³ûÍ¶×”4–"g,«gûMÿ·Þëœ5­Ä© N¨¢·./çzCP¡wz¸~X¡Êö¦Ýu:ê«îíˆ_Là×Ï¡ì‚ÂQtåF‰ BOžórB8)Í-Äa+µF_­¬î[Ž2½ÔjÖ}ËQ¦×ZMÛ÷PÒX÷-J¦—c×wžËÓË,Ù&…ùô×âôÉ’ì.@ %èq9¶ä‚úß‹Pë,dÉñŠÈÊâ‘•½…'hoOgKNsÀ–œ@g@–c!KÎTÕþ€,9¤*[ò€ž2dKçÂ–œA´? K…€-9ˆŒ6+‡öd±12×²TÓ’­f,'u¡ÝPãšYÎñjÑÕÉ²œ5‡±#ÁãDÛ/œ^Ð¿_Û¶c<ÐIjÔ×à…¸SÛzc%l¦6ì×’X«¦6ì×’Õ¬¦6í×YeI²Wf¥åˆbº2+-7Ý•Yi¹Ñp°_§Þ‚¿2”õ·Ïc‰ª‡¼}w„A¼¿Å+ãRx[ƒ­‹™”g;ï¿À¶~Þ/°¼ÐÓÅ8•yy‡az:Yß5šžƒ§#uO?=ƒèýy:hyÍaz:YÞa˜žŽÒû'òtx òtrúTÃB”»=a±Çú¥—Ï{ÂêéÒ7«3L½F‰Ag8Ÿj¸À2ŸjTÕft>Õ H²8ÃñTƒ ÑÎp>Õ€çÒ<Ý~àÍê«§»ÇæçšãaÜÌ±öhWXý\ÓbŒ¥ù9#Z\aõsµjG`99oéÛ<PõsµjG,úä²a«0ÆªÑ]ËBA¹oŽ®Ví\Ì¥í)’¿âPÝS´ÏExµ=E6†§9ºZµƒAúž"ÇahŽî DK±ós›»°ÍÏÕªlšºŸÛòý›Ÿ«U;5?gÂ‹šŸ;þ…,ÕÏÿYsjeøÏÚjÃ¯«¦ª§³—Æ¥V3)ÃÏÎ4oA~ãçvý¦ÞÛõ›~p×åõÅÝ"®êà!Ï7wû×o±®Üßí(¤›9üúCôã©Û‰¦’·ðPÑ÷7si>±˜†vœ@S®¿ôÕTð0Vùí ÷}Ld%šcÀšõ®ÿ®Æœö½RÐœ«­s6ã«Ÿ;ôoqîÐ 
+M4DFj’šf3Y4fË{øœé;»ÿ®ìþíîxVž2]…µÞQK¸åñÔÖ2È²wŸa­ ñEpÞ½þ…UïÓ‡K%¼Tv@rÏRýë_Xõác®†¹T§Å»—þ®Æ¹zö Ç]ë¨/¹¨>O_Gþ˜eÜ¯²L7›_÷—^wï¿›µd÷Å/IîÛ‡\eH‚¨!@“½–¬½šÖHÁÔ`HñR£VL½š.HY"Ô`ý¤"QÃ¡”‰ ºFcfb:s`åœsfb”‰X3×»ßŠÉn½ñ'ëî+mù¸¦ÅÓ]L·0fÔ´0È*¦£¦ÅÃ{¡TÓâáíRªiñðŽ*Q]€è¤ß¬iñð2,Õ´0ÈšX5-Þ¦š–‹¹Ì#e95-xÑTÓ‚¢š¢5-˜,tö¹H5-^ßî}boÊ¦}ö¼žæAëÑˆˆoQI­LT 9Kƒ6ÁÆHj´\L%¹^-@–wmS/¾À’ý` C ›0åÃÎ`ƒš¥Ì‡ÁrÀR³”é¸3Ðj–²&Uˆ•ºIªÁ£ ù°Ì€ùêa)ñÕÃú¹ÉWJ¦˜¯	ñO…øÊ ¯ñÕÃ:=â«ÞÀœð®ˆùÊXôõ"â«O0Mï9N˜ L¦¨ Ä4Þþh—KLØ'fZP±ô	ÓÖ´É4Æ²TBM¦ÁÝ3ÄLÃXˆipE¬Œ†zdPO8ˆÖúzhPO80šƒ¨'˜íÐ žp`qi‡Íã1ÈÒSÁÜŽÒ>/§ð•H–Søx"É)|š“å4B'9ÅS!9…¯^²œâ¹œÂ'SYNášYNñK¡$§øO’S¸"–Sø¼%ËiTÄO±oÃ‰õðÍAb=|kYÏãèS^b=Þîëá;Ìzøž³>„Ç¬Ç/ ëá@Ìzü,%±Î…Yß0dÖc,d¢ðË‘d¢ðtÉDÁ7óØDaÒ…×SO5ë!ìÅ0õT³mx2´ÊõT³Â
+åõfÛa±ä¶SÍz+ærV¾Ó"ûË÷2Û!ìùËž(µh­ðIcÛ„ŸðÛ\?„•ïÔCX¼èv¬Ù6¥ºíX³ÂbùoÇšÉ_T5ãÑ¸,ONú›Ê~Þ£]äÓ¦YÛá“yÓ¬	dÖÄ8È¬]äí¦YÛá[…dÖvýVájÖ–ìßjÖvüzß4k™5<2k‚t‹ÍfM`Y®’³&@–»$Ã¬‰Î¶æÕ¬]Ìešµ‹EO³†Åe˜5ÌD2kË’?%Ê8J¢lqògˆ²…I&eŠ2Nº’(3e‹;,ÊEÙ¢<‹²Ei3eÓC$Ê<—å"ÄeH]e¸he<e¼heõ>e(.S”­GzG¢9Dúb=ÓC,ÚL}ÁÄé¡ò_©U÷¦”`Ëõ½Ô-9è£¸Wo+@N­Q‘ 9It´°È‡Ÿ^ÊW)ó&îÕÛâÄ{/(¯†‚OÎ
+Ê'	‹kÒ^OEo¼«´×’§‹qš´où‚,MÚkÉÓÅ\š´›pqÑ¤ýxÂrÖ™Ìª–¥/ôFEô¯ò~<aYKñBÏFã£œ&ïê„å´ <]å´ˆT°œt­Ç–µZÜöÛG•ÓIZ‰]½oqvŠ³ÖoµB—äÞÿì_Ñ¼ë_!º˜^]R}Y­DI£þ$ÄY[“G‰J²j}«`©udïôñÇ›¯²Ù¾¿•ï8î@·üžFíÊ@â÷ÜoQ‹qŠäö˜9Œœèøc4ÖŒu}£oßëaMÚû˜<V
+£¦†çSÖê†h¾Å²ôº¡ºš”ÚÊê"Ûç·7Zý„›Ôˆ&ùh¨AÞ9™ §:yCuZý¼Mþ«k­¿sÅÖwÿ=üÛÝçQ•YãbÙQöè&Í¦!v½ïXö”=¾IgMNPíü×"œ´¸å	”GŒÃ˜~Y€j÷¿]âY¯NÖî-Î! ~PÅµ`|èïð½ØgÔ~‚Í“ÐN‡/ûp$L%Ë>ü†Ø‡9åG7ñÃ‹$ØlNâ8,CÇˆEx»I¨¡P6½ˆi!7C„~MUpZmmÊn£×wˆa’	ýšª QÞÐÛ¯©ž‹T‰ý,“ÃÔ—ÃQ0£‰½AÒ2ÝO–G°øýÙ“N¢M}u°^<Óü—R¿ð"–®¸mjgCw`æóµËÔ6çî ú*°©mÎíAttjj›s{b™ÚæÜÅá.FŠ™šµHéI¬¬ÖÍA ?ÁÊÚ{ýŠ1÷»¸/åcñnéh¬Ö¶¼õÛ¼:›÷^Š‚Aì¶õÛ¼$i½ßæÅ&Æš­ßæ]ú¬4ðzÍÒïïIÒ`Mè÷‰ï‘krµJÊ^;Úç‹ƒuF{f§6ÖÍ”ôHe«8R§H™)	,û84¸h‡‹ïû¤8ˆõ¾NÂ8¶¸KBº’…è´Ï,Ä¤Ã†EŠgTqƒö6%7è›´6;7Ø¨A²Žtã6¿Ä¿j¬ãZÔÞf:nØ5HÖ~[oúÝ{cE,ºÎm½éá·÷¦‡ä§»¤›9XSNã™®çJ·«- [öýévõRÎQµµˆ»ÚJó¨ÚÏqW›qUÓª ßÕýêvÅ¸ÚŒs»ˆhFŽš;ãÈq2Èv·Åbªeì}žÍídµ£ÿ·SÔ;Û…ÛÙê}í¸£Þë-¡ßœÞë…ßÒÑQëì£¯ù££ÖaŒ¯ÛxÅ+‰ñuÅ¬Ý¬¶x¾nànV[<_7ðJ•³öu¿®Üì/$k'w_`&˜c–[ý	@‰0ÒA r1;­IØìTwýÂO½L™AôŽ$ïCÈOdï•ä¢Å(ïã¢1ƒ¬›òqÿZ`Ù4È¸—.æ¢WÇ}ý‹âèb ²$öcK¢¤$'Ó=ÌÅ@õ¡¨êé~Ð ©çK.¨[ŒE;¸ nÙÔC1Î"w».,ùŒš¯r(æ¢Ûz“±ê».C
+¡t5t¼nöÙ^?ùÐÝA0Dµ´o½}ƒ,O&ì¾wb/éuªû°<ˆÓ/n—ÜŽ­dyd¢²©…A’BêÞ’8ú»	,šj1ôâB’û!X¨„ÑíìRÌEÓ>…1]¬¨6»­¾K`ÑkÔ²¦)zªv¸V9åz»À˜tõ¶–3Xîº$Ä VƒŒwçŸ«yKý"f^6¶wŒŠ³€ì½†ë•Z‘Ëž£[Ež‡æJ	ºUd®xnGîks–Ë®¤[EÑÉäRt£ˆÇqqØD<7½¡×í«at­Ð;Çæ­ãQ+´‡,Þºµ#ºÖê­ÝQ+ôt«·ŽG­Ð†QW(Ò,šÕXýš·>ZêdÔþ\L7Ž’¨ÅZ|Ö)±¼Õ5.>Iùj´p´ó§ÑÂÑÎ^8ÏÔ¬o<…Î`´pãè)V½gÄh9¬ñÆÑShÜãå*îÚðóbê«í×“ùÖžþ2WÄ$?Óžd^­æ÷ØQµÇ†Úm-ç=ÝD ººÎú®Éu	šÏ™Ô#È»¾3ã9è‹¤¶%ha DêMÏë3€öäãå0ƒÚþä­×'Ã9a;PáG-iã%HH'S˜Ó|¼AÝ‰Ì|¤Ë ^J¦¸.‚ˆ–¦¶n©îÏtÏ&ã™–P¯uÄõ ¥µÏŽgÆð9'@µãV%4ÏÚ¾ø±÷ã¿ú}êõ÷«ûÔ¦öìÚ$AuhVPÚ–‘ Œ22¶D4GÆ­CÅö·s;†Ð	[+ÐiûªbÕù3Ä’û7}ë‹§PüzB‚’	ÿVþùÿ‡Ë6
+endstream
+endobj
+xref
+0 17
+0000000000 65535 f 
+0000000015 00000 n 
+0000000062 00000 n 
+0000000117 00000 n 
+0000022026 00000 n 
+0000022136 00000 n 
+0000022246 00000 n 
+0000022385 00000 n 
+0000022597 00000 n 
+0000022815 00000 n 
+0000029282 00000 n 
+0000029676 00000 n 
+0000029820 00000 n 
+0000030038 00000 n 
+0000030261 00000 n 
+0000040252 00000 n 
+0000040659 00000 n 
+trailer
+<</Size 17
+/Root 1 0 R>>
+startxref
+54856
+%%EOF
