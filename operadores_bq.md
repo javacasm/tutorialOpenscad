@@ -1,10 +1,12 @@
-OpenScad es un programa opensource de diseño 3D orientado a la creación paramétrica o algorítmica de objetos 3D.
+## OpenScad 
+es un programa opensource de diseño 3D orientado a la creación paramétrica o algorítmica de objetos 3D.
 
 Con esto queremos decir que tenemos que proporcionar a OpenScad todos los pasos que tenemos que dar para crear el objeto.
 
 * * *
+## Escribiendo la receta ...
 
-Es como si escribiéramos el recetario para que cualquier otra persona creara ese objeto desde cero:
+Es como si escribiéramos una receta para que cualquier otra persona creara ese objeto desde cero:
 
 Veamos un ejemplo:
 
@@ -19,6 +21,7 @@ Veamos un ejemplo:
 5. Ahora haz una copia del lado derecho como si se reflejara en un espejo
 
 * * * 
+## Detallando
 
 A medida que la revisamos vemos que nuestra receta ha de ser más precisa:
 
@@ -32,7 +35,7 @@ A medida que la revisamos vemos que nuestra receta ha de ser más precisa:
 
 * * *
 
- ## Créditos y dónde aprender más sobre el tema
+## Créditos y dónde aprender más sobre el tema
 
 * Imágenes y algunos ejemplos de ["OpenScad User Book"](https://en.wikibooks.org/wiki/OpenSCAD_User_Manual/Print_version)
 
