@@ -1,17 +1,32 @@
-Como sabemos openscad es un programa opensource de diseño 3D orientado a la creación paramétrica o algorítmica de objetos 3D.
+OpenScad es un programa opensource de diseño 3D orientado a la creación paramétrica o algorítmica de objetos 3D.
 
-Con esto queremos decir que tenemos que proporcionar al programa todos los pasos que tenemos que dar para crear el objeto.
+Con esto queremos decir que tenemos que proporcionar a OpenScad todos los pasos que tenemos que dar para crear el objeto.
 
-Es como si escribiéramos el recetario para que cuelquier otra persona creara ese objeto desde cero:
+* * *
+
+Es como si escribiéramos el recetario para que cualquier otra persona creara ese objeto desde cero:
 
 Veamos un ejemplo:
 
 1. Comienza con un cilindro de estas medidas
 
-2. Pega en esta posición exacta esta esfera
+2. Pega en esta posición exacta una esfera
 
 3. Añade un cilindro más pequeño de estas dimensiones en la posición x,y,x pero girado estos ángulos
 
 4. Ahora haz un agujero en este punto. El agujero debe tener estas medidas.
 
 5. Ahora haz una copia del lado derecho como si se reflejara en un espejo
+
+* * * 
+
+A medida que la revisamos vemos que nuestra receta ha de ser más precisa:
+
+* Debemos dar las posiciones y tamaños de los objetos. Eso lo haremos concretando las coordenadas exactas y las dimensiones (como estamos diseñando en 3D necesitamos 3 datos para especificar cada uno de ellos)
+
+* También es muy importante el dar las instrucciones en el orden adecuado.
+
+* Para que todo el mundo pueda hacer nuestra receta debemos usar un lenguaje que todo el mundo entienda, evitando que se puedan escapar detalles y explicando los pasos.
+
+* * *
+
