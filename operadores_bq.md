@@ -60,6 +60,27 @@ Por ejemplo a partir del diseño de una rueda, si hemos incluido como parámetro
 
 Existen muchos tipos de operaciones que podemos aplicar a estos objetos 
 
+Sobre un objeto podemos aplicar operaciones como la rotación (rotate), la translación (translate) o el cambio de color (color)
+
+El orden de aplica de estas operaciones, en mi opinión es el inverso al acostumbrado en programación, puesto que tenemos se aplicarán desde el más cercano al mas lejano, pero dejando siempre al final el objeto. Así el primer operador que indicamos es el último que se aplica.
+
+Además no se indica con ningún signo que un operador se aplica, sino que se antepone al objeto.
+Se suele identar, dejando el objeto (que será el último) como la línea más interna
+
+El signo ";" indica "la creación" del objeto y por tanto el fin de la sentencia
+
+### Operadores booleanos
+
+El conjunto de objetos se indica incluyendo estos dentro de una llaves, cada objeto con su ";"
+
+#### Diferencia (difference), se aplica a un conjunto de objetos restando del primero los siguientes y por el orden indicado.  
+
+
+#### Suma (union), unimos todos los objetos de la lista
+
+#### Copia en espejo (mirror) que nos permite hacer un reflexión a lo largo del eje indicado
+
+
 
 * * *
 
