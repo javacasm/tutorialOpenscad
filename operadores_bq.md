@@ -1,5 +1,8 @@
-## OpenScad 
-es un programa opensource de diseño 3D orientado a la creación paramétrica o algorítmica de objetos 3D.
+## [OpenScad](http://www.openscad.org/) 
+
+![logo](imagenes/<logo class="png"></logo>)
+
+Es un programa [Open-Source](https://es.wikipedia.org/wiki/C%C3%B3digo_abierto) de diseño 3D orientado a la creación algorítmica de objetos 3D, es decir crearemos los objetos por medio de un programa.
 
 Con esto queremos decir que tenemos que proporcionar a OpenScad todos los pasos que tenemos que dar para crear el objeto.
 
