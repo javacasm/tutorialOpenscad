@@ -32,8 +32,10 @@ A medida que la revisamos vemos que nuestra receta ha de ser más precisa:
 
 * * *
 
-## Créditos
+ ## Créditos y dónde aprender más sobre el tema
 
 * Imágenes y algunos ejemplos de ["OpenScad User Book"](https://en.wikibooks.org/wiki/OpenSCAD_User_Manual/Print_version)
+
+* Aprendizaje OpenScad microtutoriales de Obijuan [temporada I](https://www.youtube.com/playlist?list=PL2CED4B0A8EA522CF) y [temporada 2](https://www.youtube.com/playlist?list=PLmnz0JqIMEzXipVqksIcvWfskeEiWFw66)
 
 * Filosofía opensource [Oficina Software Libre UGR](http://osl.ugr.es)
