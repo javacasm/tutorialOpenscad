@@ -75,8 +75,19 @@ El conjunto de objetos se indica incluyendo estos dentro de una llaves, cada obj
 
 #### Diferencia (difference), se aplica a un conjunto de objetos restando del primero los siguientes y por el orden indicado.  
 
+![diferencia](imagenes/Boolean_Difference_1a.jpg)
+
+En la diferencia es muy importante el orden. Veamos un ejemplo
+
+![diferencia2](imgenes/OpenScad_Boolean_Difference_2.jpg)
 
 #### Suma (union), unimos todos los objetos de la lista
+
+![suma](imagenes/OpenScad_Boolean_Union.jpg)
+
+#### La intersección
+
+![interseccion](imagenes/OpenScad_Boolean_Intersection.jpg)
 
 #### Copia en espejo (mirror) que nos permite hacer un reflexión a lo largo del eje indicado
 
