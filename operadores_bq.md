@@ -2,7 +2,9 @@
 
 ![logo](imagenes/logo.png)
 
-Es un programa [Open-Source](https://es.wikipedia.org/wiki/C%C3%B3digo_abierto) de diseño 3D orientado a la creación algorítmica de objetos 3D, es decir crearemos los objetos por medio de un programa.
+Es un programa [Open-Source](https://es.wikipedia.org/wiki/C%C3%B3digo_abierto) de diseño 3D orientado a la generación algorítmica de objetos 3D, es decir crearemos los objetos por medio de un programa.
+
+Los objetos se podrán imprimir directamente mediante el hardware adecuado.
 
 Con esto queremos decir que tenemos que proporcionar a OpenScad todos los pasos necesarios para crear el objeto.
 
@@ -44,13 +46,29 @@ A medida que revisamos nuestra receta, porque  queremos compartirla con alguien 
 
 * * *
 
+Para diseñar nuestros objetos partimos de una serie de objetos básicos en los que podremos basarnos para generar objetos más complejos.
+
+La forma en la generamos los nuevos objetos nos va a permitir reutilizarlos en la creación de otros aún más complejos.
+
+Una de las ventajas de OpenScad es que nos permite generar objetos paramétricos. Esto quiere decir que podemos personalizar el resultado según los valores que demos a estos parámetros.
+
+Por ejemplo a partir del diseño de una rueda, si hemos incluido como parámetros su radio total, el grosor de la goma, el diámetro del eje, podremos generar distintas ruedas.
+
+![ruedas](imagenes/ruedas.png)  
+
+* * *
+
+Existen muchos tipos de operaciones que podemos aplicar a estos objetos 
 
 
 * * *
-Nuestro programa ha de ser claro
 
-![programa](imagenes/programming.png)
 
+![programa](imagenes/programming.jpg)
+
+* Nuestro programa ha de ser claro
+
+* Comentado, explicando lo que hacemos
 
 * * *
 
