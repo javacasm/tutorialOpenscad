@@ -31,4 +31,9 @@ A medida que la revisamos vemos que nuestra receta ha de ser más precisa:
 * * *
 
 * * *
-Imágenes y algunos ejemplos de ["OpenScad User Book"](https://en.wikibooks.org/wiki/OpenSCAD_User_Manual/Print_version)
+
+## Créditos
+
+* Imágenes y algunos ejemplos de ["OpenScad User Book"](https://en.wikibooks.org/wiki/OpenSCAD_User_Manual/Print_version)
+
+* Filosofía opensource [Oficina Software Libre UGR](http://osl.ugr.es)
