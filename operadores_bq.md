@@ -45,10 +45,15 @@ A medida que revisamos nuestra receta, porque  queremos compartirla con alguien 
 * Para que todo el mundo pueda hacer nuestra receta debemos usar un lenguaje que todo el mundo entienda, evitando que se puedan escapar detalles y explicando los pasos. ** Necesitamos hablar un idioma universal **
 
 * * *
+## Formas básicas
+
+![formasbasicas](imagenes/formasbasicas.png)
 
 Para diseñar nuestros objetos partimos de una serie de objetos básicos en los que podremos basarnos para generar objetos más complejos.
 
 La forma en la generamos los nuevos objetos nos va a permitir reutilizarlos en la creación de otros aún más complejos.
+
+#### Paramétrico
 
 Una de las ventajas de OpenScad es que nos permite generar objetos paramétricos. Esto quiere decir que podemos personalizar el resultado según los valores que demos a estos parámetros.
 
@@ -58,49 +63,105 @@ Por ejemplo a partir del diseño de una rueda, si hemos incluido como parámetro
 
 * * *
 
+## Operaciones sobre objetos
+
 Existen muchos tipos de operaciones que podemos aplicar a estos objetos 
 
 Sobre un objeto podemos aplicar operaciones como la rotación (rotate), la translación (translate) o el cambio de color (color)
 
-El orden de aplica de estas operaciones, en mi opinión es el inverso al acostumbrado en programación, puesto que tenemos se aplicarán desde el más cercano al mas lejano, pero dejando siempre al final el objeto. Así el primer operador que indicamos es el último que se aplica.
+Las operaciones se aplicarán desde el más cercano al objeto al mas lejano, dejando siempre al final el objeto. Así el primer operador que indicamos es el último que se aplica.
 
-Además no se indica con ningún signo que un operador se aplica, sino que se antepone al objeto.
-Se suele identar, dejando el objeto (que será el último) como la línea más interna
+Se suele indentar, dejando el objeto (que será el último) como la línea más interna
 
-El signo ";" indica "la creación" del objeto y por tanto el fin de la sentencia
+	color("blue")
+		rotate([0,0,45])
+			translate([40,0,0])
+				rueda_simple(diametro/2,altura/2,diam_eje=5);
+
+El signo ";" indica "la creación" del objeto y por tanto el fin de la sentencia.
+
+El conjunto de objetos sobre los que se aplica se indica incluyendo éstos dentro de una llaves.
 
 ### Operadores booleanos
 
-El conjunto de objetos se indica incluyendo estos dentro de una llaves, cada objeto con su ";"
+Se denominan así porque se aplican siguiente las leyes de la lógica.
 
-#### Diferencia (difference), se aplica a un conjunto de objetos restando del primero los siguientes y por el orden indicado.  
+#### Suma (union)
+
+Unimos todos los objetos de la lista en un nuevo objeto.
+
+Es la operación más intuita.
+
+![suma](imagenes/OpenScad_Boolean_Union.jpg)
+
+#### Diferencia (difference), 
+
+Se aplica a un conjunto de objetos restando del primero los siguientes y por el orden indicado.  
 
 ![diferencia](imagenes/Boolean_Difference_1a.jpg)
 
 En la diferencia es muy importante el orden. Veamos un ejemplo
 
-![diferencia2](imgenes/OpenScad_Boolean_Difference_2.jpg)
-
-#### Suma (union), unimos todos los objetos de la lista
-
-![suma](imagenes/OpenScad_Boolean_Union.jpg)
+![diferencia2](imagenes/OpenScad_Boolean_Difference_2.jpg)
 
 #### La intersección
 
+Produce como resultado el la parte que es común a todos los objetos sobre los que se aplica.
+
 ![interseccion](imagenes/OpenScad_Boolean_Intersection.jpg)
 
-#### Copia en espejo (mirror) que nos permite hacer un reflexión a lo largo del eje indicado
+* * *
+
+#Combinando operadores
+
+Todos estos operadores se pueden combinar encadenándose las operaciones para dar lugar al objeto final
+
+Veamos un ejemplo de una rueda con eje y refuerzo para sujetar el eje:
+
+![rueda2](imagenes/ruedas2.png)
+
+	// vamos a hacer una rueda con eje hexagonal
+
+	diametro=50;
+	altura=5;
+
+
+	rueda_simple( diametro, altura);
+
+	translate([40,0,0])
+	rueda_simple(diametro/2,altura/2,diam_eje=5);
+
+
+	module rueda_simple( diametro, altura,diam_eje=8)
+	{
+	    difference()
+	    {
+	        union()
+	        {
+	            // rueda
+	            cylinder(d=diametro,h=altura,center=true,$fn=100);
+	            // refuerzo para el eje
+	            cylinder(d=diam_eje*2,h=2*altura,center=true,$fn=100);
+	        }
+	        // taladro eje
+	        cylinder(d=diam_eje,h=3*altura,center=true,$fn=6);
+	    }
+	    
+	}
+
 
 
 
 * * *
-
-
 ![programa](imagenes/programming.jpg)
+
+Algunas normas sobre programación:
 
 * Nuestro programa ha de ser claro
 
 * Comentado, explicando lo que hacemos
+
+* Debemos intentar hacerlo reutilizable
 
 * * *
 
