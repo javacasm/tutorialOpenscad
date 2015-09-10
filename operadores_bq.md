@@ -42,7 +42,7 @@ A medida que revisamos nuestra receta, porque  queremos compartirla con alguien 
 
 * También es muy importante el dar las instrucciones en el orden adecuado. **Necesitamos ordenar las instrucciones**
 
-* Para que todo el mundo pueda hacer nuestra receta debemos usar un lenguaje que todo el mundo entienda, evitando que se puedan escapar detalles y explicando los pasos. ** Necesitamos hablar un idioma universal **
+* Para que todo el mundo pueda hacer nuestra receta debemos usar un lenguaje que todo el mundo entienda, evitando que se puedan escapar detalles y explicando los pasos. **Necesitamos hablar un idioma universal**
 
 * * *
 ## Formas básicas
