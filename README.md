@@ -37,6 +37,10 @@ Podemos repetir una acción con un bucle for  for(i=[1:n-1]) El rango lo definim
 
 Para crear módulos usamos la palabra module y salvamos en un fichero ¿con el mismo nombre?
 
+### Visualmente
+
+Se ve de forma clara si nos movemos hacia la parte negativa del eje (dibujada con puntos) o hacia la positiva (dibujada con trazo completo)
+
 
 ## Depuración
 
