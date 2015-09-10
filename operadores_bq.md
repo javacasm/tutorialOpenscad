@@ -94,21 +94,46 @@ Es la operación más intuita.
 
 ![suma](imagenes/OpenScad_Boolean_Union.jpg)
 
+
+	union()
+	{
+	    cube([10,10,10],center=true);
+	    sphere(r=6,center=true);
+	}
+
 #### Diferencia (difference), 
 
 Se aplica a un conjunto de objetos restando del primero los siguientes y por el orden indicado.  
 
 ![diferencia](imagenes/Boolean_Difference_1a.jpg)
 
+difference()
+{
+    cube([10,10,10],center=true);
+    sphere(r=6,center=true);
+}
+
 En la diferencia es muy importante el orden. Veamos un ejemplo
 
 ![diferencia2](imagenes/OpenScad_Boolean_Difference_2.jpg)
+
+difference()
+{
+    sphere(r=6,center=true);
+    cube([10,10,10],center=true);
+}
 
 #### La intersección
 
 Produce como resultado el la parte que es común a todos los objetos sobre los que se aplica.
 
 ![interseccion](imagenes/OpenScad_Boolean_Intersection.jpg)
+
+intersection()
+{
+    cube([10,10,10],center=true);
+    sphere(r=6,center=true);
+}
 
 * * *
 
