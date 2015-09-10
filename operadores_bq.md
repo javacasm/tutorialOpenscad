@@ -38,9 +38,9 @@ Veamos un ejemplo:
 
 A medida que revisamos nuestra receta, porque  queremos compartirla con alguien vemos que nuestra ha de ser más precisa:
 
-* Debemos dar las posiciones y tamaños de los objetos. Eso lo haremos concretando las coordenadas exactas y las dimensiones (como estamos diseñando en 3D necesitamos 3 datos para especificar cada uno de ellos). ** Necesitamos las medidas **
+* Debemos dar las posiciones y tamaños de los objetos. Eso lo haremos concretando las coordenadas exactas y las dimensiones (como estamos diseñando en 3D necesitamos 3 datos para especificar cada uno de ellos). **Necesitamos las medidas**
 
-* También es muy importante el dar las instrucciones en el orden adecuado. ** Necesitamos ordenar las instrucciones **
+* También es muy importante el dar las instrucciones en el orden adecuado. **Necesitamos ordenar las instrucciones**
 
 * Para que todo el mundo pueda hacer nuestra receta debemos usar un lenguaje que todo el mundo entienda, evitando que se puedan escapar detalles y explicando los pasos. ** Necesitamos hablar un idioma universal **
 
